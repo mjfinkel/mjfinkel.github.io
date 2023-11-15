@@ -3,7 +3,7 @@
     <div class="header">
       <img src="https://github.com/mjfinkel/mjfinkel.github.io/blob/main/IMG_0564.JPG" align="left" width="225" />
       <h1> <font color="#00021f"> Matthew Finkel </font> </h1>
-      <a href="mailto: mjfinkel@umich.edu">mjfinkel@umich.edu</a> <br><br>
+      <a href="mailto: mjfinkel@umich.edu" target="_blank">mjfinkel@umich.edu</a> <br><br>
       <a href="tel:8478404033">(847) 840-4033</a> <br><br>
       <a href="https://www.linkedin.com/in/matthew-finkel" target="_blank">LinkedIn</a>
       <br clear="left"/>
