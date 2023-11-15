@@ -5,7 +5,8 @@
       <h1> <font color="#00021f"> Matthew Finkel </font> </h1>
       <a href="mailto: mjfinkel@umich.edu" target="_blank">mjfinkel@umich.edu</a> <br><br>
       <a href="tel:8478404033">(847) 840-4033</a> <br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" align="left" width="20"<a href="https://www.linkedin.com/in/matthew-finkel" target="_blank">LinkedIn</a>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" align="left" width="20">
+      <a href="https://www.linkedin.com/in/matthew-finkel" target="_blank">LinkedIn</a>
       <br clear="left"/>
     </div>
   </head>
