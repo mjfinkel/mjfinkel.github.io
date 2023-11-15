@@ -16,9 +16,11 @@
         University of Michigan, Ann Arbor, MI <br>
         Bachelor of Science in Computer Science <br>
         Expected Graduation: May 2025 <br>
-        Cumulative GPA: 3.45/4.0 <br> <br>
-        Relevant Coursework: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics <br>
-        Organizations: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)
+        Cumulative GPA: 3.45/4.0
+        <div>
+          Relevant Coursework: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics <br>
+          Organizations: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)
+        </div>
       </p>
     </div>
     <div>
