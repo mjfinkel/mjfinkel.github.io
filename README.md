@@ -13,7 +13,7 @@
     <div>
       <h3>Education</h3>
       <p>
-        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="20" />
+        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="20">
         University of Michigan, Ann Arbor, MI <br>
         Bachelor of Science in Computer Science <br>
         Expected Graduation: May 2025 <br>
