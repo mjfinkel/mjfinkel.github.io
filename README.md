@@ -26,8 +26,8 @@
     <div>
       <h3>Experience</h3>
       <p>
-        Software Developer <br>
-        MotorCity Casino – University of Michigan Multidisciplinary Design Program | Ann Arbor, MI | January 2024 – Present
+        Software Developer | MotorCity Casino – University of Michigan Multidisciplinary Design Program <br>
+        Ann Arbor, MI | January 2024 – Present
         <ul>
           <li>Develop an AI model using OpenAI’s API that will track customers’ activities, analyze their behaviors and preferences, and suggest offers to increase engagement</li>
           <li>Analyze current marketing processes, including data structures utilized in tracking customer behaviors</li>
@@ -35,8 +35,8 @@
         </ul>
       </p>
       <p>
-        Staff Videographer <br>
-        The Michigan Daily | Ann Arbor, MI | October 2021 – Present
+        Staff Videographer | The Michigan Daily <br>
+        Ann Arbor, MI | October 2021 – Present
         <ul>
           <li>Develop original videos in an organization that values independent and critical thinking</li>
           <li>Film and edit high-quality video using Adobe applications and deliver video within tight deadlines</li>
@@ -44,8 +44,8 @@
         </ul>
       </p>
       <p>
-        Summer Camp Counselor <br>
-        Oasis Day Camp | Highland Park, IL | June 2023 – August 2023
+        Summer Camp Counselor | Oasis Day Camp <br>
+        Highland Park, IL | June 2023 – August 2023
         <ul>
           <li>Led and motivated campers within a variety of camp activities</li>
           <li>Collaborated and brainstormed with other counselors in organizing activities and adapting to changing environments</li>
@@ -53,24 +53,24 @@
         </ul>
       </p>
       <p>
-        Warehouse Associate <br>
-        Second Life Mac | Skokie, IL | June 2021 – August 2021
+        Warehouse Associate | Second Life Mac <br>
+        Skokie, IL | June 2021 – August 2021
         <ul>
           <li>Installed software onto Apple devices for repurpose and tested devices to ensure functionality</li>
           <li>Trained new employees on warehouse procedures and organized equipment to optimize warehouse workflow</li>
         </ul>
       </p>
       <p>
-        Warehouse Associate <br>
-        Second Life Mac | Skokie, IL | June 2021 – August 2021
+        Warehouse Associate | Second Life Mac <br>
+        Skokie, IL | June 2021 – August 2021
         <ul>
           <li>Installed software onto Apple devices for repurpose and tested devices to ensure functionality</li>
           <li>Trained new employees on warehouse procedures and organized equipment to optimize warehouse workflow</li>
         </ul>
       </p>
       <p>
-        Advanced TV & Film Course Instructional Assistant and Station Manager <br>
-        Glenbrook South High School | Glenview, IL | April 2020 – May 2021
+        Advanced TV & Film Course Instructional Assistant and Station Manager | Glenbrook South High School <br>
+        Glenview, IL | April 2020 – May 2021
         <ul>
           <li>Led class lectures and mentored and trained other students on introductory filmmaking concepts</li>
           <li>Programmed the high school television channel</li>
