@@ -132,7 +132,7 @@
       <p>
         <b>Michigan Daily Rivalry Edition 2022</b> <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
-        <a href="https://www.therivalrygame.com/" target="_blank">Background</a>
+        <a href="https://www.therivalrygame.com/" target="_blank">"The Rivalry Edition" Website</a>
       </p>
       <p>
         <b>24 Hours With The Robert Anderson Survivor Protesters</b> <br>
