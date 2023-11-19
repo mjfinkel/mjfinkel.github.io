@@ -108,7 +108,7 @@
       </p>
     </div>
     <div>
-      <h2>Significant Computer Science Projects</h2>
+      <h2>Significant Programming Projects</h2>
       <p>
         <b>Taipan!</b> <br>
         <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
