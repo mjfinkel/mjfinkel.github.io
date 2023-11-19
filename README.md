@@ -121,7 +121,7 @@
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/bcc4d2df-ce1a-4ac4-9d8e-2d6c1cfcb631" align="left" width="45">
         <b>Among Us</b> <br>
-        EECS 281
+        EECS 281<sup>1</sup>
         <ul>
           <li>Implemented and analyzed the efficiency of MST and Branch and Bound algorithms using C++</li>
           <li>Developed and optimized a bounding algorithm for the traveling salesman problem using heuristic methods</li>
