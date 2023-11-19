@@ -184,6 +184,7 @@
         </div>
       </p>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/9fca851d-2c28-4060-97a5-3efff45584af" align="left" width="200">
         <b>“RAZER” Commercial</b> <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
         <div>
