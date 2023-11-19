@@ -128,9 +128,9 @@
     </div>
     <div>
       <h3>Skills</h3>
-        Programming: C++, Python, Java, C, R, SQL, HTML <br>
-        Tools: Git, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint <br>
-        Competencies: Version control, object oriented programming, data structures, debugging and testing
+        <b>Programming</b>: C++, Python, Java, C, R, SQL, HTML <br>
+        <b>Tools</b>: Git, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint <br>
+        <b>Competencies</b>: Version control, object oriented programming, data structures, debugging and testing
     </div>
   </body>
 </html>
