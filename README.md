@@ -28,7 +28,7 @@
         Expected Graduation: May 2025 <br>
         Cumulative GPA: 3.45/4.0
         <ul>
-          <li><b>Relevant Coursework</b>: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics</li>
+          <li><b>Relevant Coursework</b>: Data Structures and Algorithms (EECS 281), Artificial Intelligence (EECS 492), Data-Oriented Programming (SI 206), Computer Architecture (EECS 370), Computer Science Theory (EECS 376), Discrete Mathematics (EECS 203), Linear Algebra (MATH 214), Statistics (STATS 250)</li>
           <li><b>Organizations</b>: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)</li>
         </ul>
       </p>
