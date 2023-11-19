@@ -168,6 +168,9 @@
       <p>
         <b>“RAZER” Commercial</b> <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
+        <div>
+          For the final project of my school's TV & Film class, I produced a commercial for RAZER gaming products. This project won first place at the 2020 Midwest Media Educators Association (MMEA) Film Festival, regarded by my high school and many others to be both the state and regional-level of competition for high school students. I led production and editing on this two-man project.
+        </div>
       </p>
     </div>
     <div>
