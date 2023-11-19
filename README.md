@@ -99,7 +99,8 @@
     <div>
       <h2>Significant Computer Science Projects</h2>
       <p>
-        <b>Taipan!</b>
+        <b>Taipan!</b> <br>
+        <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
         <ul>
           <li>C++ terminal/command line implementation of the 1979 computer game Taipan!</li>
           <li>Created a fully working economy and player actions that affect game difficulty</li>
