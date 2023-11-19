@@ -17,7 +17,7 @@
       <h3>Education</h3>
       <p>
         <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="20">
-        University of Michigan, Ann Arbor, MI <br>
+        <b>University of Michigan</b>, Ann Arbor, MI <br>
         Bachelor of Science in Computer Science <br>
         Expected Graduation: May 2025 <br>
         Cumulative GPA: 3.45/4.0
@@ -29,7 +29,7 @@
       <br>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
-        Glenbrook South High School, Glenview, IL <br>
+        <b>Glenbrook South High School</b>, Glenview, IL <br>
         Graduated: May 2021 <br>
         Cumulative GPA: 3.78/4.0
         <div>
@@ -42,7 +42,7 @@
     <div>
       <h3>Experience</h3>
       <p>
-        MotorCity Casino – University of Michigan Multidisciplinary Design Program <br>
+        <b>MotorCity Casino – University of Michigan Multidisciplinary Design Program</b> <br>
         Software Developer <br>
         Ann Arbor, MI | January 2024 – Present
         <ul>
@@ -52,7 +52,7 @@
         </ul>
       </p>
       <p>
-        The Michigan Daily <br>
+        <b>The Michigan Daily</b> <br>
         Staff Videographer <br>
         Ann Arbor, MI | October 2021 – Present
         <ul>
@@ -62,7 +62,7 @@
         </ul>
       </p>
       <p>
-        Oasis Day Camp <br>
+        <b>Oasis Day Camp</b> <br>
         Summer Camp Counselor <br>
         Highland Park, IL | June 2023 – August 2023
         <ul>
@@ -72,7 +72,7 @@
         </ul>
       </p>
       <p>
-        Second Life Mac <br>
+        <b>Second Life Mac</b> <br>
         Warehouse Associate <br>
         Skokie, IL | June 2021 – August 2021
         <ul>
@@ -81,7 +81,7 @@
         </ul>
       </p>
       <p>
-        Glenbrook South High School <br>
+        <b>Glenbrook South High School</b> <br>
         Advanced TV & Film Course Teaching Assistant and Station Manager <br>
         Glenview, IL | April 2020 – May 2021
         <ul>
@@ -94,28 +94,28 @@
     <div>
       <h3>Projects</h3>
       <p>
-        Taipan!
+        <b>Taipan!</b>
         <ul>
           <li>C++ terminal/command line implementation of the 1979 computer game Taipan!</li>
           <li>Created a fully working economy and player actions that affect game difficulty</li>
         </ul>
       </p>
       <p>
-        Among Us
+        <b>Among Us</b>
         <ul>
           <li>Implemented and analyzed the efficiency of MST and Branch and Bound algorithms using C++</li>
           <li>Developed and optimized a bounding algorithm for the traveling salesman problem using heuristic methods</li>
         </ul>
       </p>
       <p>
-        Piazza Classifier
+        <b>Piazza Classifier</b>
         <ul>
           <li>Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum</li>
           <li>Predicted the subject label of nearly 10000 posts from test data with over 87% accuracy</li>
         </ul>
       </p>
       <p>
-        Euchre Card Game Simulator
+        <b>Euchre Card Game Simulator</b>
         <ul>
           <li>Constructed a simulator for the card game Euchre using object-oriented programming, abstract data types, derived classes, inheritance, and polymorphism</li>
           <li>Arranged card shuffling and dealing, playing tricks, and scoring while accounting for computer and human strategies</li>
