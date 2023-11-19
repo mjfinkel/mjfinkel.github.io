@@ -84,6 +84,7 @@
         </ul>
       </p>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/1fa4db47-1f56-47f7-b511-cf431756cf47" align="left" width="20">
         <b>Second Life Mac</b> <br>
         Warehouse Associate <br>
         Skokie, IL | June 2021 – August 2021
