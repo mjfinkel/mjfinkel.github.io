@@ -182,9 +182,15 @@
     </div>
     <div>
       <h2>Skills</h2>
-        <div><b>Programming</b>: C++, Python, C, Java, SQL, HTML, JavaScript, R </div>
-        <div><b>Tools</b>: Git, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint </div>
-        <div><b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Databases, APIs, Debugging and Testing, Flask, React, CSS </div>
+        <div>
+          <b>Programming</b>: C++, Python, C, Java, SQL, HTML, JavaScript, R
+        </div>
+        <div>
+          <b>Tools</b>: Git, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint
+        </div>
+        <div>
+          <b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Databases, APIs, Debugging and Testing, Flask, React, CSS
+        </div>
     </div>
   </body>
 </html>
