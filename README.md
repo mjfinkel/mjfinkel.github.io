@@ -137,7 +137,7 @@
       <p>
         <b>24 Hours With The Robert Anderson Survivor Protesters</b> <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
-        <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Article</a>
+        <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Main Article</a>
       </p>
       <p>
         <b>Glenbrook South Variety Show 2021 “Rise”</b> <br>
