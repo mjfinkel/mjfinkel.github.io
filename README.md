@@ -176,7 +176,7 @@
         </div>
       </p>
       <p align="right">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/310babe8-87ab-4edc-8009-d94d7a648916" align="right" width="170">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/310babe8-87ab-4edc-8009-d94d7a648916" align="right" width="160">
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
         <div align="right">
