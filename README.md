@@ -97,7 +97,7 @@
       </p>
     </div>
     <div>
-      <h3>Computer Science Projects</h3>
+      <h3>Significant Computer Science Projects</h3>
       <p>
         <b>Taipan!</b>
         <ul>
@@ -128,6 +128,22 @@
       </p>
     </div>
     <div>
+      <h3>Significant Film Projects</h3>
+      <p>
+        <b>Michigan Daily Rivalry Edition 2022</b>
+      </p>
+      <p>
+        <b>24 Hours With The Robert Anderson Survivor Protesters</b>
+      </p>
+      <p>
+        <b>Glenbrook South Variety Show 2021 “Rise”</b>
+      </p>
+      <p>
+        <b>Glenbrook South New Student Virtual Tour</b>
+      </p>
+      <p>
+        <b>“RAZER” Commercial</b>
+      </p>
     </div>
     <div>
       <h3>Skills</h3>
