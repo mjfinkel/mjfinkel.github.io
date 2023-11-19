@@ -145,7 +145,7 @@
           <li>Arranged card shuffling and dealing, playing tricks, and scoring while accounting for computer and human strategies</li>
         </ul>
       </p>
-      <small><i>Code for projects completed for Univeristy of Michigan courses cannot be shared per the <a href="https://bulletin.engin.umich.edu/rules/" target="_blank">University of Michigan Honor Code</a></i></small>
+      <small><i>Code for projects completed for Univeristy of Michigan courses cannot be shared per the <a href="https://bulletin.engin.umich.edu/rules/" target="_blank">University of Michigan Honor Code</a>.</i></small>
     </div>
     <div>
       <h2>Significant Film Projects</h2>
