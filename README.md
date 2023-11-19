@@ -42,7 +42,8 @@
     <div>
       <h3>Experience</h3>
       <p>
-        Software Developer | MotorCity Casino – University of Michigan Multidisciplinary Design Program <br>
+        MotorCity Casino – University of Michigan Multidisciplinary Design Program <br>
+        Software Developer <br>
         Ann Arbor, MI | January 2024 – Present
         <ul>
           <li>Develop an AI model using OpenAI’s API that will track customers’ activities, analyze their behaviors and preferences, and suggest offers to increase engagement</li>
@@ -51,7 +52,8 @@
         </ul>
       </p>
       <p>
-        Staff Videographer | The Michigan Daily <br>
+        The Michigan Daily <br>
+        Staff Videographer <br>
         Ann Arbor, MI | October 2021 – Present
         <ul>
           <li>Develop original videos in an organization that values independent and critical thinking</li>
@@ -60,7 +62,8 @@
         </ul>
       </p>
       <p>
-        Summer Camp Counselor | Oasis Day Camp <br>
+        Oasis Day Camp <br>
+        Summer Camp Counselor <br>
         Highland Park, IL | June 2023 – August 2023
         <ul>
           <li>Led and motivated campers within a variety of camp activities</li>
@@ -69,7 +72,8 @@
         </ul>
       </p>
       <p>
-        Warehouse Associate | Second Life Mac <br>
+        Second Life Mac <br>
+        Warehouse Associate <br>
         Skokie, IL | June 2021 – August 2021
         <ul>
           <li>Installed software onto Apple devices for repurpose and tested devices to ensure functionality</li>
@@ -77,7 +81,8 @@
         </ul>
       </p>
       <p>
-        Advanced TV & Film Course Instructional Assistant and Station Manager | Glenbrook South High School <br>
+        Glenbrook South High School <br>
+        Advanced TV & Film Course Teaching Assistant and Station Manager <br>
         Glenview, IL | April 2020 – May 2021
         <ul>
           <li>Led class lectures and mentored and trained other students on introductory filmmaking concepts</li>
