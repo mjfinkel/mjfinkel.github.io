@@ -175,10 +175,11 @@
           The Glenbrook South Variety Show is a collection of acts performed by Glenbrook South High School students. As live film director, my job involved working with act directors and studying student-submitted and faculty-organized acts for live film production. It also involved organizing and directing a film crew of camera operators, audio and video technicians, and assistant directors. After filming, I lead and assisted a team of video editors to put together the final cut of the show. The 2021 show was different from other years, as the COVID-19 regulations restricted in-person shows, creating more dependency on the video screening than ever before.
         </div>
       </p>
-      <p>
+      <p align="right">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/310babe8-87ab-4edc-8009-d94d7a648916" align="right" width="180">
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
-        <div>
+        <div alight="right">
           Amidst the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
         </div>
       </p>
