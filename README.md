@@ -110,7 +110,7 @@
     <div>
       <h2>Significant Programming Projects</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/0e243559-52db-49f6-9f30-1e9e0267ca8e" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/6e7f78ed-7f5c-441c-9b05-7d4ab08d0b44" align="left" width="45">
         <b>Taipan!</b> <br>
         <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
         <ul>
