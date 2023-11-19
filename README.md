@@ -158,7 +158,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fdf364e-2e7e-4480-a2f8-d278664ee613" align="left" width="125">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fdf364e-2e7e-4480-a2f8-d278664ee613" align="right" width="125">
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
         <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Main Article</a>
