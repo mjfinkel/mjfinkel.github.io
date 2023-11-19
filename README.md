@@ -137,7 +137,9 @@
         </ul>
       </p>
       <p>
-        <b>Euchre Card Game Simulator</b>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/6b18b686-4206-4e8d-826e-cbdb01ea9fef" align="left" width="45">
+        <b>Euchre Card Game Simulator</b> <br>
+        EECS 280
         <ul>
           <li>Constructed a simulator for the card game Euchre using object-oriented programming, abstract data types, derived classes, inheritance, and polymorphism</li>
           <li>Arranged card shuffling and dealing, playing tricks, and scoring while accounting for computer and human strategies</li>
