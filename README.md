@@ -62,6 +62,7 @@
         </ul>
       </p>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/89c0b293-a931-485e-8c20-86c1147211a0" align="left" width="20">
         <b>The Michigan Daily</b> <br>
         Staff Videographer <br>
         Ann Arbor, MI | October 2021 – Present
