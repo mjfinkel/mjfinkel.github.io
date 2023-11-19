@@ -141,7 +141,7 @@
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
         <a href="https://www.therivalrygame.com/" target="_blank">"The Rivalry Edition" Website</a>
         <div>
-          Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern aimed at raising funds for operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
+          Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is also launched alongside a competitive fundraiser aimed at help us cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
         </div>
       </p>
       <p>
