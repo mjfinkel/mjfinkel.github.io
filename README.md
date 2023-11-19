@@ -31,16 +31,17 @@
           <li><b>Relevant Coursework</b>: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics</li>
           <li><b>Organizations</b>: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)</li>
         </ul>
-        <div>
-          <b>Relevant Coursework</b>: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics <br>
-          <b>Organizations</b>: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)
-        </div>
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
         <b>Glenbrook South High School</b>, Glenview, IL <br>
         Graduated: May 2021 <br>
         Cumulative GPA: 3.78/4.0
+        <ul>
+          <li><b>Relevant Coursework</b>: AP Computer Science A, Advanced Data Structures & Algorithms Honors 573, AP Calculus BC, AP Physics C, AP English Language and Composition, AP Economics</li>
+          <li><b>Organizations</b>: Cross Country Team (Summer 2020 - Fall 2020; Captain Fall 2020), Track & Field Team (Winter 2018 - Spring 2021), Television & Film Program (Fall 2017 - Spring 2021; Station Manager Spring 2020 - Spring 2021), Variety Show (Winter 2019 - Winter 2021; Film Director Winter 2021), Glenbrook Musical (Film Director Spring 2021)</li>
+          <li><b>Honors and Awards</b>: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production</li>
+        </ul>
         <div>
           <b>Relevant Coursework</b>: AP Computer Science A, Advanced Data Structures & Algorithms Honors 573, AP Calculus BC, AP Physics C, AP English Language and Composition, AP Economics <br>
           <b>Organizations</b>: Cross Country Team (Summer 2020 - Fall 2020; Captain Fall 2020), Track & Field Team (Winter 2018 - Spring 2021), Television & Film Program (Fall 2017 - Spring 2021; Station Manager Spring 2020 - Spring 2021), Variety Show (Winter 2019 - Winter 2021; Film Director Winter 2021), Glenbrook Musical (Film Director Spring 2021) <br>
