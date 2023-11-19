@@ -73,6 +73,7 @@
         </ul>
       </p>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a6691b7e-43b6-476c-bed9-c9d8fe502e12" align="left" width="20">
         <b>Oasis Day Camp</b> <br>
         Summer Camp Counselor <br>
         Highland Park, IL | June 2023 – August 2023
