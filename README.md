@@ -45,7 +45,7 @@
       </p>
     </div>
     <div>
-      <h3>Experience</h3>
+      <h2>Experience</h2>
       <p>
         <b>MotorCity Casino – University of Michigan Multidisciplinary Design Program</b> <br>
         Software Developer <br>
@@ -97,7 +97,7 @@
       </p>
     </div>
     <div>
-      <h3>Significant Computer Science Projects</h3>
+      <h2>Significant Computer Science Projects</h2>
       <p>
         <b>Taipan!</b>
         <ul>
@@ -128,7 +128,7 @@
       </p>
     </div>
     <div>
-      <h3>Significant Film Projects</h3>
+      <h2>Significant Film Projects</h2>
       <p>
         <b>Michigan Daily Rivalry Edition 2022</b>
       </p>
@@ -146,7 +146,7 @@
       </p>
     </div>
     <div>
-      <h3>Skills</h3>
+      <h2>Skills</h2>
         <b>Programming</b>: C++, Python, Java, C, R, SQL, HTML <br>
         <b>Tools</b>: Git, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint <br>
         <b>Competencies</b>: Version control, object oriented programming, data structures, debugging and testing
