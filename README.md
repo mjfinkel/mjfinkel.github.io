@@ -51,6 +51,7 @@
     <div>
       <h2>Experience</h2>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/b9bc8a05-c6b1-4123-a4c4-a970f68391c4" align="left" width="20">
         <b>MotorCity Casino – University of Michigan Multidisciplinary Design Program</b> <br>
         Software Developer <br>
         Ann Arbor, MI | January 2024 – Present
