@@ -27,12 +27,15 @@
         Bachelor of Science in Computer Science <br>
         Expected Graduation: May 2025 <br>
         Cumulative GPA: 3.45/4.0
+        <ul>
+          <li><b>Relevant Coursework</b>: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics</li>
+          <li><b>Organizations</b>: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)</li>
+        </ul>
         <div>
           <b>Relevant Coursework</b>: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics <br>
           <b>Organizations</b>: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)
         </div>
       </p>
-      <br>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
         <b>Glenbrook South High School</b>, Glenview, IL <br>
