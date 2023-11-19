@@ -148,7 +148,7 @@
     </div>
     <div>
       <h2>Significant Film Projects</h2>
-      <div>
+      <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/31f16e7d-16f6-472d-95e1-ce9f1a32c605" align="left" width="250">
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
@@ -156,8 +156,8 @@
         <div>
           Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is also launched alongside a competitive fundraiser aimed at help us cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
         </div>
-      </div>
-      <div>
+      </p>
+      <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fdf364e-2e7e-4480-a2f8-d278664ee613" align="left" width="225">
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
@@ -165,29 +165,29 @@
         <div>
           Supplement for publication documenting the day-to-day of the protestors camped outside of the University of Michigan President's house, then occupied by former president Mark Schlissel. Led by former Michigan football player Jon Vaughn, victims of the late University of Michigan athletic doctor Robert Anderson protested the University of Michigan for strengthening sexual misconduct policies and protecting students on campus. The video segment illustrates the life of Vaughn and many others over the course of 24 hours when camping outside in the cold.
         </div>
-      </div>
-      <div>
+      </p>
+      <p>
         <b>Glenbrook South Variety Show 2021 “Rise”</b> <br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
         <div>
           The Glenbrook South Variety Show is a collection of acts performed by Glenbrook South High School students. As live film director, my job involved working with act directors and studying student-submitted and faculty-organized acts for live film production. It also involved organizing and directing a film crew of camera operators, audio and video technicians, and assistant directors. After filming, I lead and assisted a team of video editors to put together the final cut of the show. The 2021 show was different from other years, as the COVID-19 regulations restricted in-person shows, creating more dependency on the video screening than ever before.
         </div>
-      </div>
-      <div>
+      </p>
+      <p>
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
         <div>
           Amidst the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
         </div>
-      </div>
-      <div>
+      </p>
+      <p>
         <b>“RAZER” Commercial</b> <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
         <div>
           For the final project of my school's TV & Film class, I produced a commercial for RAZER gaming products. This project won first place at the 2020 Midwest Media Educators Association (MMEA) Film Festival, regarded by my high school and many others to be both the state and regional-level of competition for high school students. I led production and editing on this two-man project.
         </div>
-      </div>
+      </p>
     </div>
     <div>
       <h2>Skills</h2>
