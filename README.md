@@ -15,7 +15,7 @@
   <body>
     <div>
       <h3>Education</h3>
-      <div>
+      <p>
         <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="20">
         University of Michigan, Ann Arbor, MI <br>
         Bachelor of Science in Computer Science <br>
@@ -25,8 +25,9 @@
           Relevant Coursework: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics <br>
           Organizations: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)
         </div>
-      </div>
-      <div>
+      </p>
+      <br>
+      <p>
         Glenbrook South High School, Glenview, IL <br>
         Graduated: May 2021 <br>
         Cumulative GPA: 3.78/4.0
@@ -36,7 +37,7 @@
           Honors and Awards: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production
         </div>
       </div>
-    </div>
+    </p>
     <div>
       <h3>Experience</h3>
       <p>
