@@ -154,6 +154,9 @@
         <b>Glenbrook South Variety Show 2021 “Rise”</b> <br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
+        <div>
+          The Glenbrook South Variety Show is a collection of acts performed by Glenbrook South High School students. As live film director, my job involved working with act directors and studying student-submitted and faculty-organized acts for live film production. It also involved organizing and directing a film crew of camera operators, audio and video technicians, and assistant directors. After filming, I lead and assisted a team of video editors to put together the final cut of the show. The 2021 show was different from other years, as the COVID-19 regulations restricted in-person shows, creating more dependency on the video screening than ever before.
+        </div>
       </p>
       <p>
         <b>Glenbrook South New Student Virtual Tour</b> <br>
