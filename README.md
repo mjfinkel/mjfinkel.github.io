@@ -28,6 +28,7 @@
       </p>
       <br>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
         Glenbrook South High School, Glenview, IL <br>
         Graduated: May 2021 <br>
         Cumulative GPA: 3.78/4.0
