@@ -157,7 +157,7 @@
           Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is also launched alongside a competitive fundraiser aimed at help us cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
         </div>
       </p>
-      <p>
+      <p style="text-align:right;">
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fdf364e-2e7e-4480-a2f8-d278664ee613" align="right" width="215">
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
