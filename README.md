@@ -26,7 +26,7 @@
     <div>
       <h2>Education</h2>
       <p>
-        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="40">
+        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="45">
         <b>University of Michigan</b> <br>
         Ann Arbor, MI <br>
         Bachelor of Science in Computer Science <br>
@@ -38,7 +38,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="40">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="45">
         <b>Glenbrook South High School</b> <br>
         Glenview, IL <br>
         Graduated: May 2021 <br>
