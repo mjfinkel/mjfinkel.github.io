@@ -53,7 +53,7 @@
     <div>
       <h2>Experience</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/b9bc8a05-c6b1-4123-a4c4-a970f68391c4" align="left" width="40">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/b9bc8a05-c6b1-4123-a4c4-a970f68391c4" align="left" width="45">
         <b>MotorCity Casino – University of Michigan Multidisciplinary Design Program</b> <br>
         Software Developer <br>
         Ann Arbor, MI | January 2024 – Present
@@ -64,7 +64,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/89c0b293-a931-485e-8c20-86c1147211a0" align="left" width="20">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/89c0b293-a931-485e-8c20-86c1147211a0" align="left" width="45">
         <b>The Michigan Daily</b> <br>
         Staff Videographer <br>
         Ann Arbor, MI | October 2021 – Present
@@ -75,7 +75,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a6691b7e-43b6-476c-bed9-c9d8fe502e12" align="left" width="20">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a6691b7e-43b6-476c-bed9-c9d8fe502e12" align="left" width="45">
         <b>Oasis Day Camp</b> <br>
         Summer Camp Counselor <br>
         Highland Park, IL | June 2023 – August 2023
@@ -86,7 +86,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/1fa4db47-1f56-47f7-b511-cf431756cf47" align="left" width="20">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/1fa4db47-1f56-47f7-b511-cf431756cf47" align="left" width="45">
         <b>Second Life Mac</b> <br>
         Warehouse Associate <br>
         Skokie, IL | June 2021 – August 2021
@@ -96,7 +96,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="45">
         <b>Glenbrook South High School</b> <br>
         Advanced TV & Film Course Teaching Assistant and Station Manager <br>
         Glenview, IL | April 2020 – May 2021
