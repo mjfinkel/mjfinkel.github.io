@@ -76,14 +76,6 @@
         </ul>
       </p>
       <p>
-        Warehouse Associate | Second Life Mac <br>
-        Skokie, IL | June 2021 – August 2021
-        <ul>
-          <li>Installed software onto Apple devices for repurpose and tested devices to ensure functionality</li>
-          <li>Trained new employees on warehouse procedures and organized equipment to optimize warehouse workflow</li>
-        </ul>
-      </p>
-      <p>
         Advanced TV & Film Course Instructional Assistant and Station Manager | Glenbrook South High School <br>
         Glenview, IL | April 2020 – May 2021
         <ul>
