@@ -129,7 +129,8 @@
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/eb99e102-ce85-4f22-a409-616db109ca07" align="left" width="45">
-        <b>Piazza Classifier</b>
+        <b>Piazza Classifier</b> <br>
+        EECS 280
         <ul>
           <li>Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum</li>
           <li>Predicted the subject label of nearly 10000 posts from test data with over 87% accuracy</li>
