@@ -94,6 +94,7 @@
         </ul>
       </p>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
         <b>Glenbrook South High School</b> <br>
         Advanced TV & Film Course Teaching Assistant and Station Manager <br>
         Glenview, IL | April 2020 – May 2021
