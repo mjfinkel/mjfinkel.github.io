@@ -96,7 +96,6 @@
         </ul>
       </p>
     </div>
-      
     <div>
       <h3>Computer Science Projects</h3>
       <p>
@@ -128,11 +127,8 @@
         </ul>
       </p>
     </div>
-      
     <div>
-      
     </div>
-    
     <div>
       <h3>Skills</h3>
         <b>Programming</b>: C++, Python, Java, C, R, SQL, HTML <br>
