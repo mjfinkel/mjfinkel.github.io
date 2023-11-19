@@ -130,19 +130,27 @@
     <div>
       <h2>Significant Film Projects</h2>
       <p>
-        <b>Michigan Daily Rivalry Edition 2022</b>
+        <b>Michigan Daily Rivalry Edition 2022</b> <br>
+        <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a>
+        <a href="https://www.therivalrygame.com/" target="_blank">Background</a>
       </p>
       <p>
-        <b>24 Hours With The Robert Anderson Survivor Protesters</b>
+        <b>24 Hours With The Robert Anderson Survivor Protesters</b> <br>
+        <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a>
+        <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Article</a>
       </p>
       <p>
-        <b>Glenbrook South Variety Show 2021 “Rise”</b>
+        <b>Glenbrook South Variety Show 2021 “Rise”</b> <br>
+        <a href="https://vimeo.com/533979399" target="_blank">Video</a>
+        <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
       </p>
       <p>
-        <b>Glenbrook South New Student Virtual Tour</b>
+        <b>Glenbrook South New Student Virtual Tour</b> <br>
+        <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
       </p>
       <p>
-        <b>“RAZER” Commercial</b>
+        <b>“RAZER” Commercial</b> <br>
+        <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
       </p>
     </div>
     <div>
