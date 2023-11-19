@@ -96,7 +96,7 @@
       </p>
     </div>
     <div>
-      <h3>Projects</h3>
+      <h3>Computer Science Projects</h3>
       <p>
         <b>Taipan!</b>
         <ul>
