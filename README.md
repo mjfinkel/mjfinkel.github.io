@@ -27,9 +27,9 @@
         Bachelor of Science in Computer Science <br>
         Expected Graduation: May 2025 <br>
         Cumulative GPA: 3.45/4.0
-        <div style="line-height: 300%;">
-          Relevant Coursework: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics <br>
-          Organizations: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)
+        <div>
+          <b>Relevant Coursework</b>: Data Structures and Algorithms, Artificial Intelligence, Data-Oriented Programming, Computer Architecture, Computer Science Theory, Discrete Mathematics, Linear Algebra, Statistics <br>
+          <b>Organizations</b>: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)
         </div>
       </p>
       <br>
@@ -39,9 +39,9 @@
         Graduated: May 2021 <br>
         Cumulative GPA: 3.78/4.0
         <div>
-          Relevant Coursework: AP Computer Science A, Advanced Data Structures & Algorithms Honors 573, AP Calculus BC, AP Physics C, AP English Language and Composition, AP Economics <br>
-          Organizations: Cross Country Team (Summer 2020 - Fall 2020; Captain: Fall 2020), Track & Field Team (Winter 2018 - Spring 2021), Television & Film Program (Fall 2017 - Spring 2021; Station Manager: Spring 2020 - Spring 2021), Variety Show (Winter 2019 - Winter 2021; Film Director: Winter 2021), Glenbrook Musical (Film Director: Spring 2021) <br>
-          Honors and Awards: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production
+          <b>Relevant Coursework</b>: AP Computer Science A, Advanced Data Structures & Algorithms Honors 573, AP Calculus BC, AP Physics C, AP English Language and Composition, AP Economics <br>
+          <b>Organizations</b>: Cross Country Team (Summer 2020 - Fall 2020; Captain: Fall 2020), Track & Field Team (Winter 2018 - Spring 2021), Television & Film Program (Fall 2017 - Spring 2021; Station Manager: Spring 2020 - Spring 2021), Variety Show (Winter 2019 - Winter 2021; Film Director: Winter 2021), Glenbrook Musical (Film Director: Spring 2021) <br>
+          <b>Honors and Awards</b>: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production
         </div>
       </p>
     <div>
