@@ -121,7 +121,13 @@
               </li>
             </ul>
           </li>
-          <li><b>Honors and Awards</b>: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production
+          <li><b>Honors and Awards</b>:
+            <ul>
+              <li>Glenbrook Medallion</li>
+              <li>National Honors Society</li>
+              <li>Glenbrook Scholar</li>
+              <li>Excellence in Television Production</li>
+            </ul>
           </li>
         </ul>
       </p>
