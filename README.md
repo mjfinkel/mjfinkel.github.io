@@ -33,7 +33,19 @@
         Expected Graduation: May 2025 <br>
         Cumulative GPA: 3.45/4.0
         <ul>
-          <li><b>Relevant Coursework</b>: Data Structures and Algorithms (EECS 281), Web Systems (EECS 485), Artificial Intelligence (EECS 492), Database Management Systems (EECS 484), Data-Oriented Programming (SI 206), Computer Architecture (EECS 370), Computer Science Theory (EECS 376), Discrete Mathematics (EECS 203), Linear Algebra (MATH 214), Statistics (STATS 250)</li>
+          <li><b>Relevant Coursework</b>:
+            <ul>
+              <li>Data Structures and Algorithms (EECS 281)</li>
+              <li>Web Systems (EECS 485)</li>
+              <li>Artificial Intelligence (EECS 492)</li>
+              <li>Database Management Systems (EECS 484)</li>
+              <li>Data-Oriented Programming (SI 206)</li>
+              <li>Computer Architecture (EECS 370)</li>
+              <li>Computer Science Theory (EECS 376)</li>
+              <li>Discrete Mathematics (EECS 203)</li>
+              <li>Linear Algebra (MATH 214)</li>
+              <li>Statistics (STATS 250)</li>
+            </ul>
           <li><b>Organizations</b>: 
           <ul>
             <li>The Michigan Daily
