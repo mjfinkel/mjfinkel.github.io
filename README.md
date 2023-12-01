@@ -34,7 +34,29 @@
         Cumulative GPA: 3.45/4.0
         <ul>
           <li><b>Relevant Coursework</b>: Data Structures and Algorithms (EECS 281), Web Systems (EECS 485), Artificial Intelligence (EECS 492), Database Management Systems (EECS 484), Data-Oriented Programming (SI 206), Computer Architecture (EECS 370), Computer Science Theory (EECS 376), Discrete Mathematics (EECS 203), Linear Algebra (MATH 214), Statistics (STATS 250)</li>
-          <li><b>Organizations</b>: The Michigan Daily (Fall 2021 – Winter 2024), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present), Multidisciplinary Design Program (Winter 2024 – Present)
+          <li><b>Organizations</b>: 
+          <ul>
+            <li>The Michigan Daily
+              <ul>
+                <li>Staff Videographer (Fall 2021 - Winter 2024)</li>
+              </ul>
+            </li>
+            <li>Michigan Community Scholars
+              <ul>
+                <li>Member (Fall 2021 - Spring 2022)</li>
+              </ul>
+            </li>
+            <li>Michigan Running Club
+              <ul>
+                <li>Member (Fall 2022 - Present)</li>
+              </ul>
+            </li>
+            <li>Multidisciplinary Design Program
+              <ul>
+                <li>MotorCity Casino Team Software Developer (Winter 2024 - Present)</li>
+              </ul>
+            </li>
+          </ul>
         </ul>
       </p>
       <p>
