@@ -34,7 +34,7 @@
         Cumulative GPA: 3.45/4.0
         <ul>
           <li><b>Relevant Coursework</b>: Data Structures and Algorithms (EECS 281), Web Systems (EECS 485), Artificial Intelligence (EECS 492), Database Management Systems (EECS 484), Data-Oriented Programming (SI 206), Computer Architecture (EECS 370), Computer Science Theory (EECS 376), Discrete Mathematics (EECS 203), Linear Algebra (MATH 214), Statistics (STATS 250)</li>
-          <li><b>Organizations</b>: The Michigan Daily (Fall 2021 – Present), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present)</li>
+          <li><b>Organizations</b>: The Michigan Daily (Fall 2021 – Winter 2024), Michigan Community Scholars Program (Fall 2021 – Spring 2022), Michigan Running Club (Fall 2022 – Present), Multidisciplinary Design Program (Winter 2024 – Present)
         </ul>
       </p>
       <p>
@@ -67,7 +67,7 @@
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/89c0b293-a931-485e-8c20-86c1147211a0" align="left" width="45">
         <b>The Michigan Daily</b> <br>
         Staff Videographer <br>
-        Ann Arbor, MI | October 2021 – Present
+        Ann Arbor, MI | October 2021 – January 2024
         <ul>
           <li>Develop original videos in an organization that values independent and critical thinking</li>
           <li>Film and edit high-quality video using Adobe applications and deliver video within tight deadlines</li>
