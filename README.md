@@ -108,7 +108,6 @@
                 <ul>
                   <li>Cage Camera Operator (Winter 2019)</li>
                   <li>Video Production Assistant Director (Winter 2020)</li>
-                  <li>"The Titans that Could" Special Education Video Director (Winter 2020)</li>
                   <li>Video Team Director (Winter 2021)</li>
                   <li>Video Production Executive Producer (Winter 2021)</li>
                   <li>Final Show Video Editor (Winter 2021)</li>
