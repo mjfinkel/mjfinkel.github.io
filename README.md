@@ -212,7 +212,7 @@
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/ff1b3287-c3fe-45b0-903f-b32036c81810" align="left" width="230">
-        <b>Glenbrook South Variety Show 2021 “Rise”</b> <br>
+        <a id="vshow2021"><b>Glenbrook South Variety Show 2021 “Rise”</b></a>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
         <div>
