@@ -84,7 +84,41 @@
           </li>
           <li><b>Organizations</b>: 
             <ul>
-              Cross Country Team (Summer 2020 - Fall 2020; Captain Fall 2020), Track & Field Team (Winter 2018 - Spring 2021), Television & Film Program (Fall 2017 - Spring 2021; Station Manager Spring 2020 - Spring 2021), Variety Show (Winter 2019 - Winter 2021; Film Director Winter 2021), Glenbrook Musical (Film Director Spring 2021)
+              <li>Cross Country Team
+                <ul>
+                  <li>Freshman Runner (Summer 2017 - Summer 2018)</li>
+                  <li>Varsity Runner (Fall 2018 - Fall 2020)</li>
+                  <li>Team Captain (Fall 2020)</li>
+                </ul>
+              </li>
+              <li>Track & Field Team
+                <ul>
+                  <li>Freshman Runner (Winter 2018 - Spring 2018)</li>
+                  <li>Varsity Runner (Winter 2019 - Spring 2021)</li>
+                </ul>
+              </li>
+              <li>Television & Film Program and Club
+                <ul>
+                  <li>Beginning TV & Film Member (Fall 2017 - Spring 2018)</li>
+                  <li>Advanced TV & Film Member (Fall 2018 - Spring 2020)</li>
+                  <li>Station Manager (Spring 2020 - Spring 2021)</li>
+                </ul>
+              </li>
+              <li>Variety Show
+                <ul>
+                  <li>Cage Camera Operator (Winter 2019)</li>
+                  <li>Video Production Assistant Director (Winter 2020)</li>
+                  <li>Special Education Video "The Titans that Could" Director (Winter 2020)</li>
+                  <li>Video Production Director (Winter 2021)</li>
+                  <li>Video Production Executive Producor (Winter 2021)</li>
+                  <li>Final Show Video Editor (Winter 2021)</li>
+                </ul>
+              </li>
+              <li>Glenbrook Musical
+                <ul>
+                  <li>Video Production Director (Spring 2021)</li>
+                </ul>
+              </li>
             </ul>
           </li>
           <li><b>Honors and Awards</b>: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production
