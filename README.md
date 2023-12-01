@@ -46,6 +46,7 @@
               <li>Linear Algebra (MATH 214)</li>
               <li>Statistics (STATS 250)</li>
             </ul>
+          </li>
           <li><b>Organizations</b>: 
             <ul>
               <li>The Michigan Daily
@@ -61,6 +62,7 @@
                 <ul><li>MotorCity Casino Team Software Developer (Winter 2024 - Present)</li></ul>
               </li>
             </ul>
+          </li>
         </ul>
       </p>
       <p>
