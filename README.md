@@ -47,28 +47,28 @@
               <li>Statistics (STATS 250)</li>
             </ul>
           <li><b>Organizations</b>: 
-          <ul>
-            <li>The Michigan Daily
-              <ul>
-                <li>Staff Videographer (Fall 2021 - Winter 2024)</li>
-              </ul>
-            </li>
-            <li>Michigan Community Scholars
-              <ul>
-                <li>Member (Fall 2021 - Spring 2022)</li>
-              </ul>
-            </li>
-            <li>Michigan Running Club
-              <ul>
-                <li>Member (Fall 2022 - Present)</li>
-              </ul>
-            </li>
-            <li>Multidisciplinary Design Program
-              <ul>
-                <li>MotorCity Casino Team Software Developer (Winter 2024 - Present)</li>
-              </ul>
-            </li>
-          </ul>
+            <ul>
+              <li>The Michigan Daily
+                <ul>
+                  <li>Staff Videographer (Fall 2021 - Winter 2024)</li>
+                </ul>
+              </li>
+              <li>Michigan Community Scholars
+                <ul>
+                  <li>Member (Fall 2021 - Spring 2022)</li>
+                </ul>
+              </li>
+              <li>Michigan Running Club
+                <ul>
+                  <li>Member (Fall 2022 - Present)</li>
+                </ul>
+              </li>
+              <li>Multidisciplinary Design Program
+                <ul>
+                  <li>MotorCity Casino Team Software Developer (Winter 2024 - Present)</li>
+                </ul>
+              </li>
+            </ul>
         </ul>
       </p>
       <p>
