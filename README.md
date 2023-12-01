@@ -72,9 +72,23 @@
         Graduated: May 2021 <br>
         Cumulative GPA: 3.78/4.0
         <ul>
-          <li><b>Relevant Coursework</b>: AP Computer Science A, Advanced Data Structures & Algorithms Honors 573, AP Calculus BC, AP Physics C, AP English Language and Composition, AP Economics</li>
-          <li><b>Organizations</b>: Cross Country Team (Summer 2020 - Fall 2020; Captain Fall 2020), Track & Field Team (Winter 2018 - Spring 2021), Television & Film Program (Fall 2017 - Spring 2021; Station Manager Spring 2020 - Spring 2021), Variety Show (Winter 2019 - Winter 2021; Film Director Winter 2021), Glenbrook Musical (Film Director Spring 2021)</li>
-          <li><b>Honors and Awards</b>: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production</li>
+          <li><b>Relevant Coursework</b>:
+            <ul>
+              <li>AP Computer Science A</li>
+              <li>Advanced Data Structures & Algorithms Honors 573</li>
+              <li>AP Calculus BC</li>
+              <li>AP Physics C</li>
+              <li>AP English Language and Composition</li>
+              <li>AP Economics</li>
+            </ul>
+          </li>
+          <li><b>Organizations</b>: 
+            <ul>
+              Cross Country Team (Summer 2020 - Fall 2020; Captain Fall 2020), Track & Field Team (Winter 2018 - Spring 2021), Television & Film Program (Fall 2017 - Spring 2021; Station Manager Spring 2020 - Spring 2021), Variety Show (Winter 2019 - Winter 2021; Film Director Winter 2021), Glenbrook Musical (Film Director Spring 2021)
+            </ul>
+          </li>
+          <li><b>Honors and Awards</b>: Glenbrook Medallion, National Honors Society, Glenbrook Scholar, Excellence in Television Production
+          </li>
         </ul>
       </p>
     </div>
