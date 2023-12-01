@@ -181,7 +181,7 @@
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
         <div align="right">
-          Amidst the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
+          During the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
         </div>
       </p>
       <p>
