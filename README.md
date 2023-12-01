@@ -76,40 +76,11 @@
           </li>
           <li><b>Organizations</b>: 
             <ul>
-              <li>Cross Country Team
-                <ul>
-                  <li>Freshman Runner (Summer 2017 - Summer 2018)</li>
-                  <li>Varsity Runner (Fall 2018 - Fall 2020)</li>
-                  <li>Team Captain (Fall 2020)</li>
-                </ul>
-              </li>
-              <li>Track & Field Team
-                <ul>
-                  <li>Freshman Runner (Winter 2018 - Spring 2018)</li>
-                  <li>Varsity Runner (Winter 2019 - Spring 2021)</li>
-                </ul>
-              </li>
-              <li>Television & Film Program and Club
-                <ul>
-                  <li>Beginning TV & Film Member (Fall 2017 - Spring 2018)</li>
-                  <li>Advanced TV & Film Member (Fall 2018 - Spring 2020)</li>
-                  <li>Station Manager (Spring 2020 - Spring 2021)</li>
-                </ul>
-              </li>
-              <li>Variety Show
-                <ul>
-                  <li>Cage Camera Operator (Winter 2019)</li>
-                  <li>Video Production Assistant Director (Winter 2020)</li>
-                  <li>Video Team Director (Winter 2021)</li>
-                  <li>Video Production Executive Producer (Winter 2021)</li>
-                  <li>Final Show Video Editor (Winter 2021)</li>
-                </ul>
-              </li>
-              <li>Glenbrook Musical
-                <ul>
-                  <li>Video Production Director (Spring 2021)</li>
-                </ul>
-              </li>
+              <li>Cross Country Team: Freshman Runner (Summer 2017 - Summer 2018), Varsity Runner (Fall 2018 - Fall 2020), Team Captain (Fall 2020)</li>
+              <li>Track & Field Team: Freshman Runner (Winter 2018 - Spring 2018), Varsity Runner (Winter 2019 - Spring 2021)</li>
+              <li>Television & Film Program and Club: Beginning TV & Film Member (Fall 2017 - Spring 2018), Advanced TV & Film Member (Fall 2018 - Spring 2020), Station Manager (Spring 2020 - Spring 2021)</li>
+              <li>Variety Show: Cage Camera Operator (Winter 2019), Video Production Assistant Director (Winter 2020), Video Team Director (Winter 2021), Video Production Executive Producer (Winter 2021), Final Show Video Editor (Winter 2021)</li>
+              <li>Glenbrook Musical: Video Production Director (Spring 2021)</li>
             </ul>
           </li>
           <li><b>Honors and Awards</b>:
