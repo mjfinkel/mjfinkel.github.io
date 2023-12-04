@@ -248,5 +248,11 @@
           <b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Artificial Intelligence, Databases, APIs, Debugging and Testing, Flask, React
         </div>
     </div>
+    <table cellspacing="0" cellpadding="0">
+      <tr>
+        <th>Test1</th>
+        <th>Test2</th>
+      </tr>
+    </table>
   </body>
 </html>
