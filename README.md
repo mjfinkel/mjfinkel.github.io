@@ -27,7 +27,7 @@
       <h2>Education</h2>
       <p>
         <b>University of Michigan</b>
-        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="25"> <br>
+        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="20"> <br>
         Ann Arbor, MI <br>
         Bachelor of Science in Computer Science <br>
         Expected Graduation: May 2025 <br>
@@ -58,7 +58,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
         <b>Glenbrook South High School</b> <br>
         Glenview, IL <br>
         Graduation: May 2021 <br>
@@ -97,7 +97,7 @@
     <div>
       <h2>Experience</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/b9bc8a05-c6b1-4123-a4c4-a970f68391c4" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/b9bc8a05-c6b1-4123-a4c4-a970f68391c4" align="left" width="20">
         <b>MotorCity Casino – University of Michigan Multidisciplinary Design Program</b> <br>
         Software Developer <br>
         Ann Arbor, MI | January 2024 – Present
@@ -108,7 +108,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/89c0b293-a931-485e-8c20-86c1147211a0" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/89c0b293-a931-485e-8c20-86c1147211a0" align="left" width="20">
         <b>The Michigan Daily</b> <br>
         Staff Videographer <br>
         Ann Arbor, MI | October 2021 – January 2024
@@ -119,7 +119,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a6691b7e-43b6-476c-bed9-c9d8fe502e12" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a6691b7e-43b6-476c-bed9-c9d8fe502e12" align="left" width="20">
         <b>Oasis Day Camp</b> <br>
         Summer Camp Counselor <br>
         Highland Park, IL | June 2023 – August 2023
@@ -130,7 +130,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/1fa4db47-1f56-47f7-b511-cf431756cf47" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/1fa4db47-1f56-47f7-b511-cf431756cf47" align="left" width="20">
         <b>Second Life Mac</b> <br>
         Warehouse Associate <br>
         Skokie, IL | June 2021 – August 2021
@@ -140,7 +140,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
         <b>Glenbrook South High School</b> <br>
         Advanced TV & Film Course Teaching Assistant and Station Manager <br>
         Glenview, IL | April 2020 – May 2021
@@ -154,7 +154,7 @@
     <div>
       <h2>Significant Programming Projects</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/6e7f78ed-7f5c-441c-9b05-7d4ab08d0b44" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/6e7f78ed-7f5c-441c-9b05-7d4ab08d0b44" align="left" width="20">
         <b>Taipan!</b> <br>
         <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
         <ul>
@@ -163,7 +163,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/bcc4d2df-ce1a-4ac4-9d8e-2d6c1cfcb631" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/bcc4d2df-ce1a-4ac4-9d8e-2d6c1cfcb631" align="left" width="20">
         <b>Among Us</b> <br>
         EECS 281
         <ul>
@@ -172,7 +172,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/eb99e102-ce85-4f22-a409-616db109ca07" align="left" width="45">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/eb99e102-ce85-4f22-a409-616db109ca07" align="left" width="20">
         <b>Piazza Classifier</b> <br>
         EECS 280
         <ul>
