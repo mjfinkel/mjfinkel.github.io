@@ -193,7 +193,6 @@
     <div>
       <h2>Significant Film Projects</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/31f16e7d-16f6-472d-95e1-ce9f1a32c605" align="left" width="160">
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
         <a href="https://www.therivalrygame.com/" target="_blank">"The Rivalry Edition" Website</a>
@@ -201,8 +200,7 @@
           Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is also launched alongside a competitive fundraiser aimed at help us cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
         </div>
       </p>
-      <p align="right">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fdf364e-2e7e-4480-a2f8-d278664ee613" align="right" width="205">
+      <p>
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
         <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Main Article</a>
@@ -211,7 +209,6 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/ff1b3287-c3fe-45b0-903f-b32036c81810" align="left" width="230">
         <b id="vshow">Glenbrook South Variety Show 2021 “Rise”</b> <br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
@@ -219,8 +216,7 @@
           The Glenbrook South Variety Show is a collection of acts performed by Glenbrook South High School students. As live film director, my job involved working with act directors and studying student-submitted and faculty-organized acts for live film production. It also involved organizing and directing a film crew of camera operators, audio and video technicians, and assistant directors. After filming, I lead and assisted a team of video editors to put together the final cut of the show. The 2021 show was different from other years, as the COVID-19 regulations restricted in-person shows, creating more dependency on the video screening than ever before.
         </div>
       </p>
-      <p align="right">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/310babe8-87ab-4edc-8009-d94d7a648916" align="right" width="187">
+      <p>
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
         <div align="right">
@@ -228,7 +224,6 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/9fca851d-2c28-4060-97a5-3efff45584af" align="left" width="160">
         <b>“RAZER” Commercial</b> <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
         <div>
@@ -248,11 +243,5 @@
           <b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Artificial Intelligence, Databases, APIs, Debugging and Testing, Flask, React
         </div>
     </div>
-    <table cellspacing="0" cellpadding="0">
-      <tr>
-        <th>Test1</th>
-        <th>Test2</th>
-      </tr>
-    </table>
   </body>
 </html>
