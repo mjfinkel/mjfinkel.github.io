@@ -26,7 +26,7 @@
     <div>
       <h2>About Me</h2>
         <p>I am a 21 year old from the Chicagoland area currently studying computer science as an undergraduate at the University of Michigan. I am also an experienced videographer with a demonstrated history of working in the newspaper industry and for my school. I am currently looking for a software related internship for the summer 2024 season.</p>
-        <p>I have</p>
+        <p>I first became interested in computer science in 2019 during my Junior year of High School when I enrolled in AP Computer Science A. Since then, I have not gone a semester without taking a course on computer science. I have always wanted to broaden my interests as a student and learn as much as possible about the many different paths I can take as a computer scientist.</p>
     </div>
     <div>
       <h2>Education</h2>
