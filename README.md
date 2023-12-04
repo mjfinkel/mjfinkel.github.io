@@ -204,7 +204,7 @@
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
         <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Main Article</a>
-        <div align="right">
+        <div>
           Supplement for publication documenting the day-to-day of the protestors camped outside of the University of Michigan President's house, then occupied by former president Mark Schlissel. Led by former Michigan football player Jon Vaughn, victims of the late University of Michigan athletic doctor Robert Anderson protested the University of Michigan for strengthening sexual misconduct policies and protecting students on campus. The video segment illustrates the life of Vaughn and many others over the course of 24 hours when camping outside in the cold.
         </div>
       </p>
@@ -219,7 +219,7 @@
       <p>
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
-        <div align="right">
+        <div>
           During the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
         </div>
       </p>
