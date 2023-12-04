@@ -95,6 +95,18 @@
       </p>
     </div>
     <div>
+      <h2>Skills</h2>
+        <div>
+          <b>Programming</b>: C++/C, Python, Java, SQL, HTML/CSS, JavaScript, R
+        </div>
+        <div>
+          <b>Tools</b>: Git, GitHub, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint, LaTeX
+        </div>
+        <div>
+          <b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Artificial Intelligence, Databases, APIs, Debugging and Testing, Flask, React
+        </div>
+    </div>
+    <div>
       <h2>Experience</h2>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/b9bc8a05-c6b1-4123-a4c4-a970f68391c4" align="left" width="20">
@@ -228,18 +240,6 @@
           For the final project of my school's TV & Film class, I produced a commercial for RAZER gaming products. This project won first place at the 2020 Midwest Media Educators Association (MMEA) Film Festival, regarded by my high school and many others to be both the state and regional-level of competition for high school students. I led production and editing on this two-man project.
         </div>
       </p>
-    </div>
-    <div>
-      <h2>Skills</h2>
-        <div>
-          <b>Programming</b>: C++/C, Python, Java, SQL, HTML/CSS, JavaScript, R
-        </div>
-        <div>
-          <b>Tools</b>: Git, GitHub, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint, LaTeX
-        </div>
-        <div>
-          <b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Artificial Intelligence, Databases, APIs, Debugging and Testing, Flask, React
-        </div>
     </div>
   </body>
 </html>
