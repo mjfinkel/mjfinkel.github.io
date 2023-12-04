@@ -1,10 +1,10 @@
 <html>
   <head>
     <div class="container">
-      <a href="https://mjfinkel.github.io/#about-me">About Me | </a>
-      <a href="https://mjfinkel.github.io/#education">Education | </a>
-      <a href="https://mjfinkel.github.io/#experience">Experience | </a>
-      <a href="https://mjfinkel.github.io/#significant-programming-projects">Significant Programming Projects | </a>
+      <a href="https://mjfinkel.github.io/#about-me">About Me</a> | 
+      <a href="https://mjfinkel.github.io/#education">Education</a> | 
+      <a href="https://mjfinkel.github.io/#experience">Experience</a> | 
+      <a href="https://mjfinkel.github.io/#significant-programming-projects">Significant Programming Projects</a> | 
       <a href="https://mjfinkel.github.io/#significant-film-projects">Significant Film Projects</a>
     </div>
     <div class="header">
