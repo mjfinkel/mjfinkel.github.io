@@ -1,7 +1,11 @@
 <html>
   <head>
     <div class="container">
-      <a href="https://mjfinkel.github.io/#about-me"> About Me</a>
+      <a href="https://mjfinkel.github.io/#about-me">About Me | </a>
+      <a href="https://mjfinkel.github.io/#education">Education | </a>
+      <a href="https://mjfinkel.github.io/#experience">Experience | </a>
+      <a href="https://mjfinkel.github.io/#significant-programming-projects">Significant Programming Projects | </a>
+      <a href="https://mjfinkel.github.io/#significant-film-projects">Significant Film Projects</a>
     </div>
     <div class="header">
       <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/216edb1f-ad0b-423c-b3a3-044279d9e5a3" align="left" width="200" />
