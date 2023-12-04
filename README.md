@@ -154,7 +154,6 @@
     <div>
       <h2>Significant Programming Projects</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/6e7f78ed-7f5c-441c-9b05-7d4ab08d0b44" align="left" width="20">
         <b>Taipan!</b> <br>
         <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
         <ul>
@@ -163,7 +162,6 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/bcc4d2df-ce1a-4ac4-9d8e-2d6c1cfcb631" align="left" width="20">
         <b>Among Us</b> <br>
         EECS 281
         <ul>
@@ -172,7 +170,6 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/eb99e102-ce85-4f22-a409-616db109ca07" align="left" width="20">
         <b>Piazza Classifier</b> <br>
         EECS 280
         <ul>
@@ -181,7 +178,6 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/6b18b686-4206-4e8d-826e-cbdb01ea9fef" align="left" width="45">
         <b>Euchre Card Game Simulator</b> <br>
         EECS 280
         <ul>
