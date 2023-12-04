@@ -1,6 +1,6 @@
 <html>
   <head>
-    <div>
+    <div class="container">
       <a href="https://mjfinkel.github.io/#about-me"> About Me</a>
     </div>
     <div class="header">
