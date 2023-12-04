@@ -62,7 +62,7 @@
         <b>Glenbrook South High School</b> <br>
         Glenview, IL <br>
         Graduation: May 2021 <br>
-        Cumulative GPA: 3.78/4.0
+        GPA: 3.78/4.0
         <ul>
           <li><b>Relevant Coursework</b>:
             <ul>
