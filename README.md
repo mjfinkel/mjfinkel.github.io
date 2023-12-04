@@ -101,18 +101,6 @@
       </p>
     </div>
     <div>
-      <h2>Skills</h2>
-        <div>
-          <b>Programming</b>: C++/C, Python, Java, SQL, HTML/CSS, JavaScript, R
-        </div>
-        <div>
-          <b>Tools</b>: Git, GitHub, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint, LaTeX
-        </div>
-        <div>
-          <b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Artificial Intelligence, Databases, APIs, Debugging and Testing, Flask, React
-        </div>
-    </div>
-    <div>
       <h2>Experience</h2>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/b9bc8a05-c6b1-4123-a4c4-a970f68391c4" align="left" width="20">
@@ -168,6 +156,18 @@
           <li>Planned and directed schoolwide productions and live events for a student body of over 3000</li>
         </ul>
       </p>
+    </div>
+    <div>
+      <h2>Skills</h2>
+        <div>
+          <b>Programming</b>: C++/C, Python, Java, SQL, HTML/CSS, JavaScript, R
+        </div>
+        <div>
+          <b>Tools</b>: Git, GitHub, MacOS, Windows 10, Linux, XCode, Visual Studio, VS Code, SQLite, Microsoft Excel, Microsoft PowerPoint, LaTeX
+        </div>
+        <div>
+          <b>Competencies</b>: Version Control, Object-Oriented Programming, Data Structures, Artificial Intelligence, Databases, APIs, Debugging and Testing, Flask, React
+        </div>
     </div>
     <div>
       <h2>Significant Programming Projects</h2>
