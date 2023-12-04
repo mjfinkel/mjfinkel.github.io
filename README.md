@@ -79,7 +79,7 @@
               <li>Cross Country Team: Freshman Runner (Summer 2017 - Summer 2018), Varsity Runner (Fall 2018 - Fall 2020), Team Captain (Fall 2020)</li>
               <li>Track & Field Team: Freshman Runner (Winter 2018 - Spring 2018), Varsity Runner (Winter 2019 - Spring 2021)</li>
               <li>Television & Film Program and Club: Beginning TV & Film Member (Fall 2017 - Spring 2018), Advanced TV & Film Member (Fall 2018 - Spring 2020), Station Manager (Spring 2020 - Spring 2021)</li>
-              <li>Variety Show: Cage Camera Operator (Winter 2019), Video Production Assistant Director (Winter 2020), Video Team Director (Winter 2021), Video Production Executive Producer (Winter 2021), Final Show Video Editor (Winter 2021)</li>
+              <li>Variety Show: Cage Camera Operator (Winter 2019), Video Production Assistant Director (Winter 2020), Video Production Director (Winter 2021), Video Production Executive Producer (Winter 2021), Final Show Video Editor (Winter 2021)</li>
               <li>Glenbrook Musical: Video Production Director (Spring 2021)</li>
             </ul>
           </li>
@@ -204,6 +204,7 @@
       <h2>Significant Film Projects</h2>
       <p>
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
+        Videographer <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
         <a href="https://www.therivalrygame.com/" target="_blank">"The Rivalry Edition" Website</a>
         <div>
@@ -212,6 +213,7 @@
       </p>
       <p>
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
+        Videographer <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
         <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Main Article</a>
         <div>
@@ -220,6 +222,7 @@
       </p>
       <p>
         <b id="vshow">Glenbrook South Variety Show 2021 “Rise”</b> <br>
+        Video Production Director and Executive Producer < br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
         <div>
