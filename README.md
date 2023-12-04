@@ -166,7 +166,8 @@
         EECS 281
         <ul>
           <li>Implemented and analyzed the efficiency of MST and Branch and Bound algorithms using C++</li>
-          <li>Developed and optimized a bounding algorithm for the traveling salesman problem using heuristic methods</li>
+          <li>Developed and optimized a bounding algorithm for the traveling salesman problem</li>
+          <li>Independently researched and analyzed different TSP heuristics aimed at improving algorithm runtime efficiency</li>
         </ul>
       </p>
       <p>
