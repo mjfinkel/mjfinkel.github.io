@@ -1,14 +1,5 @@
 <html>
   <head>
-    <div>
-      <h3>
-        <a style="text-decoration:none;color:rgb(0,0,0);" href="https://mjfinkel.github.io/#about-me">About Me</a> | 
-        <a style="text-decoration:none;color:rgb(0,0,0);" href="https://mjfinkel.github.io/#education">Education</a> | 
-        <a style="text-decoration:none;color:rgb(0,0,0);" href="https://mjfinkel.github.io/#experience">Experience</a> | 
-        <a style="text-decoration:none;color:rgb(0,0,0);" href="https://mjfinkel.github.io/#significant-programming-projects">Significant Programming Projects</a> | 
-        <a style="text-decoration:none;color:rgb(0,0,0);" href="https://mjfinkel.github.io/#significant-film-projects">Significant Film Projects</a>
-      </h3>
-    </div>
     <div class="header">
       <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/216edb1f-ad0b-423c-b3a3-044279d9e5a3" align="left" width="200" />
       <h1> <font color="#00021f"> Matthew Finkel </font> </h1>
