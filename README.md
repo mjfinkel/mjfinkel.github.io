@@ -165,7 +165,7 @@
         <b>Among Us</b> <br>
         EECS 281
         <ul>
-          <li>Implemented MST and Branch and Bound algorithms using C++</li>
+          <li>Implemented MST and branch and bound algorithms using C++</li>
           <li>Developed and optimized an optimal solution bounding algorithm for the traveling salesman problem</li>
           <li>Researched and analyzed different TSP heuristics aimed at improving algorithm runtime efficiency</li>
         </ul>
@@ -175,7 +175,8 @@
         EECS 280
         <ul>
           <li>Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum</li>
-          <li>Predicted the subject label of nearly 10000 posts from test data with over 87% accuracy</li>
+          <li>Predicted the subject label of nearly 3000 posts from test data with over 87% accuracy</li>
+          <li>Made use of container ADTs, dynamic memory, The Big Three, linked lists, binary trees, and iterators</li>
         </ul>
       </p>
       <p>
