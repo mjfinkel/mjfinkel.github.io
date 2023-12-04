@@ -1,6 +1,6 @@
 <html>
   <head>
-    <div style="text-align:center">
+    <div>
       <h3>
         <a href="https://mjfinkel.github.io/#about-me">About Me</a> | 
         <a href="https://mjfinkel.github.io/#education">Education</a> | 
