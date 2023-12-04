@@ -176,7 +176,7 @@
         <ul>
           <li>Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum</li>
           <li>Predicted the subject label of nearly 3000 posts from test data with over 87% accuracy</li>
-          <li>Made use of container ADTs, dynamic memory, The Big Three, linked lists, binary trees, and iterators</li>
+          <li>Made use of container ADTs, dynamic memory, recursion, The Big Three, linked lists, binary trees, and iterators</li>
         </ul>
       </p>
       <p>
