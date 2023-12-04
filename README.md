@@ -222,7 +222,7 @@
       </p>
       <p>
         <b id="vshow">Glenbrook South Variety Show 2021 “Rise”</b> <br>
-        Video Production Director and Executive Producer < br>
+        Video Production Director, Executive Producer, and Final Show Editor < br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
         <div>
@@ -231,6 +231,7 @@
       </p>
       <p>
         <b>Glenbrook South New Student Virtual Tour</b> <br>
+        Lead Director, Producer, and Editor <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
         <div>
           During the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
@@ -238,6 +239,7 @@
       </p>
       <p>
         <b>“RAZER” Commercial</b> <br>
+        Producer and Editor <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
         <div>
           For the final project of my school's TV & Film class, I produced a commercial for RAZER gaming products. This project won first place at the 2020 Midwest Media Educators Association (MMEA) Film Festival, regarded by my high school and many others to be both the state and regional-level of competition for high school students. I led production and editing on this two-man project.
