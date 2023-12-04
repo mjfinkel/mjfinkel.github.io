@@ -222,7 +222,7 @@
       </p>
       <p>
         <b id="vshow">Glenbrook South Variety Show 2021 “Rise”</b> <br>
-        Video Production Director, Executive Producer, and Final Show Editor < br>
+        Video Production Director, Executive Producer, and Final Show Editor <br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
         <div>
