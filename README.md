@@ -24,6 +24,12 @@
   </head>
   <body>
     <div>
+      <h2>About Me</h2>
+        <p>I am a 21 year old from the Chicagoland area currently studying computer science as an undergraduate at the University of Michigan. I am also an experienced videographer with a demonstrated history of working in the newspaper industry and for my school. I am currently looking for a software related internship for the summer 2024 season. <br>
+        I have
+        </p>
+    </div>
+    <div>
       <h2>Education</h2>
       <p>
         <b>University of Michigan</b>
