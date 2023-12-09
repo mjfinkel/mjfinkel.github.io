@@ -217,7 +217,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fdf364e-2e7e-4480-a2f8-d278664ee613" align="left" width="75">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/42450991-25d8-44fc-aaf7-68afc99d4903" align="left" width="140">
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
