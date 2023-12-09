@@ -207,7 +207,7 @@
     <div>
       <h2>Significant Film Projects</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/de26fd61-0e90-430a-9b51-25b2b1e7c22e" align="left" width="140">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/61649027-18ef-4ca9-b90f-db4d2ef2031e" align="left" width="130">
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
@@ -217,7 +217,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/42450991-25d8-44fc-aaf7-68afc99d4903" align="left" width="140">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/42450991-25d8-44fc-aaf7-68afc99d4903" align="left" width="130">
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
