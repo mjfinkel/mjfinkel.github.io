@@ -227,7 +227,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/ff1b3287-c3fe-45b0-903f-b32036c81810" align="left" width="75">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/0e88b9ab-5507-4e2d-9077-ef53290bfb1d" align="left" width="130">
         <b id="vshow">Glenbrook South Variety Show 2021 “Rise”</b> <br>
         Video Production Director, Executive Producer, and Final Show Editor <br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
@@ -237,7 +237,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/310babe8-87ab-4edc-8009-d94d7a648916" align="left" width="75">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/139830b0-be07-4b27-bdc2-acc7164bf051" align="left" width="130">
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         Lead Director, Producer, and Editor <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
@@ -246,7 +246,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/9fca851d-2c28-4060-97a5-3efff45584af" align="left" width="75">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c5801f00-3752-4bec-8010-7987d74f43a6" align="left" width="130">
         <b>“RAZER” Commercial</b> <br>
         Producer and Editor <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
