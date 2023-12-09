@@ -28,129 +28,6 @@
       <p>I am a third year college student from the Chicagoland area currently studying computer science at the University of Michigan. I am also an experienced videographer with a demonstrated history of working in the newspaper industry and for my school. I am currently looking for a software related internship for the summer 2024 season.</p>
     </div>
     <div>
-      <h2>Education</h2>
-      <p>
-        <b>University of Michigan</b>
-        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="24"> <br>
-        Ann Arbor, MI <br>
-        Bachelor of Science in Computer Science <br>
-        Expected Graduation: May 2025 <br>
-        Cumulative GPA: 3.45/4.0
-        <ul>
-          <li><b>Relevant Coursework</b>:
-            <ul>
-              <li>Data Structures and Algorithms (EECS 281)</li>
-              <li>Web Systems (EECS 485)</li>
-              <li>Artificial Intelligence (EECS 492)</li>
-              <li>Database Management Systems (EECS 484)</li>
-              <li>Data-Oriented Programming (SI 206)</li>
-              <li>Computer Architecture (EECS 370)</li>
-              <li>Computer Science Theory (EECS 376)</li>
-              <li>Discrete Mathematics (EECS 203)</li>
-              <li>Linear Algebra (MATH 214)</li>
-              <li>Statistics (STATS 250)</li>
-            </ul>
-          </li>
-          <li><b>Organizations</b>: 
-            <ul>
-              <li>The Michigan Daily: Staff Videographer (Fall 2021 - Winter 2024)</li>
-              <li>Michigan Community Scholars: Member (Fall 2021 - Spring 2022)</li>
-              <li>Michigan Running Club: Member (Fall 2022 - Present)</li>
-              <li>Multidisciplinary Design Program: MotorCity Casino Team Software Developer (Winter 2024 - Present)</li>
-            </ul>
-          </li>
-        </ul>
-      </p>
-      <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="24">
-        <b>Glenbrook South High School</b> <br>
-        Glenview, IL <br>
-        Graduation: May 2021 <br>
-        GPA: 3.78/4.0
-        <ul>
-          <li><b>Relevant Coursework</b>:
-            <ul>
-              <li>AP Computer Science A</li>
-              <li>Advanced Data Structures & Algorithms Honors 573</li>
-              <li>AP Calculus BC</li>
-              <li>AP Physics C</li>
-              <li>AP English Language and Composition</li>
-              <li>AP Economics</li>
-            </ul>
-          </li>
-          <li><b>Organizations</b>: 
-            <ul>
-              <li>Cross Country Team: Freshman Runner (Summer 2017 - Summer 2018), Varsity Runner (Fall 2018 - Fall 2020), Team Captain (Fall 2020)</li>
-              <li>Track & Field Team: Freshman Runner (Winter 2018 - Spring 2018), Varsity Runner (Winter 2019 - Spring 2021)</li>
-              <li>Television & Film Program and Club: Beginning TV & Film Member (Fall 2017 - Spring 2018), Advanced TV & Film Member (Fall 2018 - Spring 2020), Station Manager (Spring 2020 - Spring 2021)</li>
-              <li>Variety Show: Cage Camera Operator (Winter 2019), Video Production Assistant Director (Winter 2020), Video Production Director (Winter 2021), Video Production Executive Producer (Winter 2021), Final Show Video Editor (Winter 2021)</li>
-              <li>Glenbrook Musical: Video Production Director (Spring 2021)</li>
-            </ul>
-          </li>
-          <li><b>Honors and Awards</b>:
-            <ul>
-              <li>Glenbrook Medallion</li>
-              <li>National Honors Society</li>
-              <li>Glenbrook Scholar</li>
-              <li>Excellence in Television Production</li>
-            </ul>
-          </li>
-        </ul>
-      </p>
-    </div>
-    <div>
-      <h2>Experience</h2>
-      <p>
-        <b>MotorCity Casino – University of Michigan Multidisciplinary Design Program</b> <br>
-        Software Developer <br>
-        Ann Arbor, MI | January 2024 – Present
-        <ul>
-          <li>Develop an AI model using OpenAI’s API that will track customers’ activities, analyze their behaviors and preferences, and suggest offers to increase engagement</li>
-          <li>Analyze current marketing processes, including data structures utilized in tracking customer behaviors</li>
-          <li>Create an integrated system (front end, back end, database, and UI) in C# to support enhanced marketing efforts</li>
-        </ul>
-      </p>
-      <p>
-        <b>The Michigan Daily</b> <br>
-        Staff Videographer <br>
-        Ann Arbor, MI | October 2021 – January 2024
-        <ul>
-          <li>Develop original videos in an organization that values independent and critical thinking</li>
-          <li>Film and edit high-quality video using Adobe applications and deliver video within tight deadlines</li>
-          <li>Collaborate with other sections to enhance content for a news website that has about 350,000 views per month</li>
-        </ul>
-      </p>
-      <p>
-        <b>Oasis Day Camp</b> <br>
-        Summer Camp Counselor <br>
-        Highland Park, IL | June 2023 – August 2023
-        <ul>
-          <li>Led and motivated campers within a variety of camp activities</li>
-          <li>Collaborated and brainstormed with other counselors in organizing activities and adapting to changing environments</li>
-          <li>Maintained camper safety and independently enhanced campers’ experiences using active listening skills</li>
-        </ul>
-      </p>
-      <p>
-        <b>Second Life Mac</b> <br>
-        Warehouse Associate <br>
-        Skokie, IL | June 2021 – August 2021
-        <ul>
-          <li>Installed software onto Apple devices for repurpose and tested devices to ensure functionality</li>
-          <li>Trained new employees on warehouse procedures and organized equipment to optimize warehouse workflow</li>
-        </ul>
-      </p>
-      <p>
-        <b>Glenbrook South High School</b> <br>
-        Advanced TV & Film Course Teaching Assistant and Station Manager <br>
-        Glenview, IL | April 2020 – May 2021
-        <ul>
-          <li>Led class lectures and mentored and trained other students on introductory filmmaking concepts</li>
-          <li>Programmed the high school television channel</li>
-          <li>Planned and directed schoolwide productions and live events for a student body of over 3000</li>
-        </ul>
-      </p>
-    </div>
-    <div>
       <h2>Skills</h2>
         <div>
           <b>Programming</b>: C++/C, Python, Java, SQL, HTML/CSS, JavaScript, R
@@ -248,6 +125,58 @@
         <div>
           For the final project of my school's TV & Film class, I produced a commercial for RAZER gaming products. This project won first place at the 2020 Midwest Media Educators Association (MMEA) Film Festival, regarded by my high school and many others to be both the state and regional-level of competition for high school students. I led production and editing on this two-man project.
         </div>
+      </p>
+    </div>
+    <div>
+      <h2>Experience</h2>
+      <p>
+        <b>MotorCity Casino – University of Michigan Multidisciplinary Design Program</b> <br>
+        Software Developer <br>
+        Ann Arbor, MI | January 2024 – Present
+        <ul>
+          <li>Develop an AI model using OpenAI’s API that will track customers’ activities, analyze their behaviors and preferences, and suggest offers to increase engagement</li>
+          <li>Analyze current marketing processes, including data structures utilized in tracking customer behaviors</li>
+          <li>Create an integrated system (front end, back end, database, and UI) in C# to support enhanced marketing efforts</li>
+        </ul>
+      </p>
+      <p>
+        <b>The Michigan Daily</b> <br>
+        Staff Videographer <br>
+        Ann Arbor, MI | October 2021 – January 2024
+        <ul>
+          <li>Develop original videos in an organization that values independent and critical thinking</li>
+          <li>Film and edit high-quality video using Adobe applications and deliver video within tight deadlines</li>
+          <li>Collaborate with other sections to enhance content for a news website that has about 350,000 views per month</li>
+        </ul>
+      </p>
+      <p>
+        <b>Oasis Day Camp</b> <br>
+        Summer Camp Counselor <br>
+        Highland Park, IL | June 2023 – August 2023
+        <ul>
+          <li>Led and motivated campers within a variety of camp activities</li>
+          <li>Collaborated and brainstormed with other counselors in organizing activities and adapting to changing environments</li>
+          <li>Maintained camper safety and independently enhanced campers’ experiences using active listening skills</li>
+        </ul>
+      </p>
+      <p>
+        <b>Second Life Mac</b> <br>
+        Warehouse Associate <br>
+        Skokie, IL | June 2021 – August 2021
+        <ul>
+          <li>Installed software onto Apple devices for repurpose and tested devices to ensure functionality</li>
+          <li>Trained new employees on warehouse procedures and organized equipment to optimize warehouse workflow</li>
+        </ul>
+      </p>
+      <p>
+        <b>Glenbrook South High School</b> <br>
+        Advanced TV & Film Course Teaching Assistant and Station Manager <br>
+        Glenview, IL | April 2020 – May 2021
+        <ul>
+          <li>Led class lectures and mentored and trained other students on introductory filmmaking concepts</li>
+          <li>Programmed the high school television channel</li>
+          <li>Planned and directed schoolwide productions and live events for a student body of over 3000</li>
+        </ul>
       </p>
     </div>
   </body>
