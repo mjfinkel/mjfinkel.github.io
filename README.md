@@ -207,7 +207,7 @@
     <div>
       <h2>Significant Film Projects</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/de26fd61-0e90-430a-9b51-25b2b1e7c22e" align="left" width="135">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/de26fd61-0e90-430a-9b51-25b2b1e7c22e" align="left" width="140">
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
