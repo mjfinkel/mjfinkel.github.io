@@ -62,7 +62,7 @@
         </ul>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="24">
         <b>Glenbrook South High School</b> <br>
         Glenview, IL <br>
         Graduation: May 2021 <br>
