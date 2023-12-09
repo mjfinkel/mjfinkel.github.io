@@ -179,5 +179,75 @@
         </ul>
       </p>
     </div>
+    <h2>Education</h2>
+      <p>
+        <b>University of Michigan</b>
+        <img src="https://umaec.umich.edu/wp-content/uploads/2020/09/UM-Block-M-e1600266060889.jpg" align="left" width="20"> <br>
+        Ann Arbor, MI <br>
+        Bachelor of Science in Computer Science <br>
+        Expected Graduation: May 2025 <br>
+        Cumulative GPA: 3.45/4.0
+        <ul>
+          <li><b>Relevant Coursework</b>:
+            <ul>
+              <li>Data Structures and Algorithms (EECS 281)</li>
+              <li>Web Systems (EECS 485)</li>
+              <li>Artificial Intelligence (EECS 492)</li>
+              <li>Database Management Systems (EECS 484)</li>
+              <li>Data-Oriented Programming (SI 206)</li>
+              <li>Computer Architecture (EECS 370)</li>
+              <li>Computer Science Theory (EECS 376)</li>
+              <li>Discrete Mathematics (EECS 203)</li>
+              <li>Linear Algebra (MATH 214)</li>
+              <li>Statistics (STATS 250)</li>
+            </ul>
+          </li>
+          <li><b>Organizations</b>: 
+            <ul>
+              <li>The Michigan Daily: Staff Videographer (Fall 2021 - Winter 2024)</li>
+              <li>Michigan Community Scholars: Member (Fall 2021 - Spring 2022)</li>
+              <li>Michigan Running Club: Member (Fall 2022 - Present)</li>
+              <li>Multidisciplinary Design Program: MotorCity Casino Team Software Developer (Winter 2024 - Present)</li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+      <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f9ed2c72-a2f8-46e0-b224-3bcd311f7744" align="left" width="20">
+        <b>Glenbrook South High School</b> <br>
+        Glenview, IL <br>
+        Graduation: May 2021 <br>
+        GPA: 3.78/4.0
+        <ul>
+          <li><b>Relevant Coursework</b>:
+            <ul>
+              <li>AP Computer Science A</li>
+              <li>Advanced Data Structures & Algorithms Honors 573</li>
+              <li>AP Calculus BC</li>
+              <li>AP Physics C</li>
+              <li>AP English Language and Composition</li>
+              <li>AP Economics</li>
+            </ul>
+          </li>
+          <li><b>Organizations</b>: 
+            <ul>
+              <li>Cross Country Team: Freshman Runner (Summer 2017 - Summer 2018), Varsity Runner (Fall 2018 - Fall 2020), Team Captain (Fall 2020)</li>
+              <li>Track & Field Team: Freshman Runner (Winter 2018 - Spring 2018), Varsity Runner (Winter 2019 - Spring 2021)</li>
+              <li>Television & Film Program and Club: Beginning TV & Film Member (Fall 2017 - Spring 2018), Advanced TV & Film Member (Fall 2018 - Spring 2020), Station Manager (Spring 2020 - Spring 2021)</li>
+              <li>Variety Show: Cage Camera Operator (Winter 2019), Video Production Assistant Director (Winter 2020), Video Production Director (Winter 2021), Video Production Executive Producer (Winter 2021), Final Show Video Editor (Winter 2021)</li>
+              <li>Glenbrook Musical: Video Production Director (Spring 2021)</li>
+            </ul>
+          </li>
+          <li><b>Honors and Awards</b>:
+            <ul>
+              <li>Glenbrook Medallion</li>
+              <li>National Honors Society</li>
+              <li>Glenbrook Scholar</li>
+              <li>Excellence in Television Production</li>
+            </ul>
+          </li>
+        </ul>
+      </p>
+    </div>
   </body>
 </html>
