@@ -34,38 +34,40 @@
     <div>
       <h2>Significant Programming Projects</h2>
       <p>
-        <b>Taipan!</b> <br>
-        <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
+        <b>MLB Data Visualizer</b> <br>
+        SI 206
         <ul>
           <li>C++ terminal/command line implementation of the 1979 computer game Taipan!</li>
           <li>Created a fully working economy and player actions that affect game difficulty</li>
         </ul>
       </p>
       <p>
+        <b>Taipan!</b> <br>
+        <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
+        <div>
+          C++ terminal/command line implementation of the 1979 computer game <i>Taipan!</i>. Created a fully working economy and player actions that affect game difficulty.
+        </div>
+      </p>
+      <p>
         <b>Among Us</b> <br>
         EECS 281
-        <ul>
-          <li>Implemented MST and branch and bound algorithms using C++</li>
-          <li>Developed and optimized an optimal solution bounding algorithm for the traveling salesman problem</li>
-          <li>Researched and analyzed different TSP heuristics aimed at improving algorithm runtime efficiency</li>
-        </ul>
+        <div>
+          Spin off of the multiplayer murder mystery game <i>Among Us</i>. Implemented MST and branch and bound algorithms using C++. Developed and optimized an optimal solution bounding algorithm for the traveling salesman problem. Researched and analyzed different TSP heuristics aimed at improving algorithm runtime efficiency.
+        </div>
       </p>
       <p>
         <b>Piazza Classifier</b> <br>
         EECS 280
-        <ul>
-          <li>Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum</li>
-          <li>Predicted the subject label of nearly 3000 posts from test data with over 87% accuracy</li>
-          <li>Made use of container ADTs, dynamic memory, recursion, The Big Three, linked lists, binary trees, and iterators</li>
-        </ul>
+        <div>
+          Post classifier for the website <i>Piazza</i>. Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum. Predicted the subject label of nearly 3000 posts from test data with over 87% accuracy. Made use of container ADTs, dynamic memory, recursion, The Big Three, linked lists, binary trees, and iterators.
+        </div>
       </p>
       <p>
         <b>Euchre Card Game Simulator</b> <br>
         EECS 280
-        <ul>
-          <li>Constructed a simulator for the card game Euchre using object-oriented programming, abstract data types, derived classes, inheritance, and polymorphism</li>
-          <li>Arranged card shuffling and dealing, playing tricks, and scoring while accounting for computer and human strategies</li>
-        </ul>
+        <div>
+          Constructed a simulator for the card game Euchre using object-oriented programming, abstract data types, derived classes, inheritance, and polymorphism. Arranged card shuffling and dealing, playing tricks, and scoring while accounting for computer and human strategies.
+        </div>
       </p>
     </div>
     <div>
