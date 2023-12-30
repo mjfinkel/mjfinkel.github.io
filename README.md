@@ -72,9 +72,9 @@
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
         <a href="https://www.therivalrygame.com/" target="_blank">"The Rivalry Edition" Website</a>
-        <div>
+        <p>
           Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is also launched alongside a competitive fundraiser aimed at help us cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
-        </div>
+        </p>
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/42450991-25d8-44fc-aaf7-68afc99d4903" align="left" width="400">
@@ -82,9 +82,9 @@
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
         <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Main Article</a>
-        <div>
+        <p>
           Supplement for publication documenting the day-to-day of the protestors camped outside of the University of Michigan President's house, then occupied by former president Mark Schlissel. Led by former Michigan football player Jon Vaughn, victims of the late University of Michigan athletic doctor Robert Anderson protested the University of Michigan for strengthening sexual misconduct policies and protecting students on campus. The video segment illustrates the life of Vaughn and many others over the course of 24 hours when camping outside in the cold.
-        </div>
+        </p>
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/0e88b9ab-5507-4e2d-9077-ef53290bfb1d" align="left" width="400">
