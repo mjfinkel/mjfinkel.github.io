@@ -66,7 +66,7 @@
     </div>
     <div>
       <h2>Significant Film Projects</h2>
-      <p>
+      <div>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/61649027-18ef-4ca9-b90f-db4d2ef2031e" align="left" width="400">
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
         Videographer <br>
@@ -75,8 +75,8 @@
         <div>
           Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is also launched alongside a competitive fundraiser aimed at help us cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
         </div>
-      </p>
-      <p>
+      </div>
+      <div>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/42450991-25d8-44fc-aaf7-68afc99d4903" align="left" width="400">
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         Videographer <br>
@@ -85,8 +85,8 @@
         <div>
           Supplement for publication documenting the day-to-day of the protestors camped outside of the University of Michigan President's house, then occupied by former president Mark Schlissel. Led by former Michigan football player Jon Vaughn, victims of the late University of Michigan athletic doctor Robert Anderson protested the University of Michigan for strengthening sexual misconduct policies and protecting students on campus. The video segment illustrates the life of Vaughn and many others over the course of 24 hours when camping outside in the cold.
         </div>
-      </p>
-      <p>
+      </div>
+      <div>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/0e88b9ab-5507-4e2d-9077-ef53290bfb1d" align="left" width="400">
         <b id="vshow">Glenbrook South Variety Show 2021 “Rise”</b> <br>
         Video Production Director, Executive Producer, and Final Show Editor <br>
@@ -95,8 +95,8 @@
         <div>
           The Glenbrook South Variety Show is a collection of acts performed by Glenbrook South High School students. As live film director, my job involved working with act directors and studying student-submitted and faculty-organized acts for live film production. It also involved organizing and directing a film crew of camera operators, audio and video technicians, and assistant directors. After filming, I lead and assisted a team of video editors to put together the final cut of the show. The 2021 show was different from other years, as the COVID-19 regulations restricted in-person shows, creating more dependency on the video screening than ever before.
         </div>
-      </p>
-      <p>
+      </div>
+      <div>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c7406072-e1dc-4346-b916-7a613980e627" align="left" width="400">
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         Lead Director, Producer, and Editor <br>
@@ -104,8 +104,8 @@
         <div>
           During the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
         </div>
-      </p>
-      <p>
+      </div>
+      <div>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c5801f00-3752-4bec-8010-7987d74f43a6" align="left" width="400">
         <b>“RAZER” Commercial</b> <br>
         Producer and Editor <br>
@@ -113,7 +113,7 @@
         <div>
           For the final project of my school's TV & Film class, I produced a commercial for RAZER gaming products. This project won first place at the 2020 Midwest Media Educators Association (MMEA) Film Festival, regarded by my high school and many others to be both the state and regional-level of competition for high school students. I led production and editing on this two-man project.
         </div>
-      </p>
+      </div>
     </div>
   </body>
 </html>
