@@ -20,7 +20,7 @@
         GitHub
       </a> <br><br><br>
       <a href="https://github.com/mjfinkel" target="_blank">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/574ee7f5-c709-4040-bda3-abe751f2a62b" align="left" width="30">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/574ee7f5-c709-4040-bda3-abe751f2a62b" align="left" width="25">
         Resume
       </a>
       <br clear="left"/>
