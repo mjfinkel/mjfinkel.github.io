@@ -34,6 +34,8 @@
     <div>
       <h2>Significant Programming Projects</h2>
       <p>
+        ![a732b0c8_ba25_408c_9715_3eb9a4c84150_MLB_baseballs5 0]()
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a37ba1fc-38b5-4241-add4-613a554aa823" align="left" width="300">
         <b>MLB Data Visualizer</b> <br>
         SI 206
         <div>
