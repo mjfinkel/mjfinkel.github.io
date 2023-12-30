@@ -97,7 +97,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/139830b0-be07-4b27-bdc2-acc7164bf051" align="left" width="130">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c7406072-e1dc-4346-b916-7a613980e627" align="left" width="130">
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         Lead Director, Producer, and Editor <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
