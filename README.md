@@ -65,7 +65,7 @@
         <b>Euchre Card Game Simulator</b> <br>
         EECS 280
         <div>
-          Constructed a simulator for the card game Euchre using object-oriented programming, abstract data types, derived classes, inheritance, and polymorphism. Arranged card shuffling and dealing, playing tricks, and scoring while accounting for computer and human strategies.
+          Constructed a simulator for the card game <i>Euchre</i> using object-oriented programming, abstract data types, derived classes, inheritance, and polymorphism. Arranged card shuffling and dealing, playing tricks, and scoring while accounting for computer and human strategies.
         </div>
       </p>
     </div>
