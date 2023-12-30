@@ -67,7 +67,7 @@
     <div>
       <h2>Significant Film Projects</h2>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/61649027-18ef-4ca9-b90f-db4d2ef2031e" align="left" width="400">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/61649027-18ef-4ca9-b90f-db4d2ef2031e" align="left" width="350">
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
@@ -78,7 +78,7 @@
         <br>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/42450991-25d8-44fc-aaf7-68afc99d4903" align="left" width="400">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/42450991-25d8-44fc-aaf7-68afc99d4903" align="left" width="350">
         <b>24 Hours With The Anderson Survivor Protesters Video</b> <br>
         Videographer <br>
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
@@ -88,7 +88,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/0e88b9ab-5507-4e2d-9077-ef53290bfb1d" align="left" width="400">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/0e88b9ab-5507-4e2d-9077-ef53290bfb1d" align="left" width="350">
         <b id="vshow">Glenbrook South Variety Show 2021 “Rise”</b> <br>
         Video Production Director, Executive Producer, and Final Show Editor <br>
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
@@ -98,7 +98,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c7406072-e1dc-4346-b916-7a613980e627" align="left" width="400">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c7406072-e1dc-4346-b916-7a613980e627" align="left" width="350">
         <b>Glenbrook South New Student Virtual Tour</b> <br>
         Lead Director, Producer, and Editor <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
@@ -107,7 +107,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c5801f00-3752-4bec-8010-7987d74f43a6" align="left" width="400">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c5801f00-3752-4bec-8010-7987d74f43a6" align="left" width="350">
         <b>“RAZER” Commercial</b> <br>
         Producer and Editor <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
