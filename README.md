@@ -36,10 +36,9 @@
       <p>
         <b>MLB Data Visualizer</b> <br>
         SI 206
-        <ul>
-          <li>C++ terminal/command line implementation of the 1979 computer game Taipan!</li>
-          <li>Created a fully working economy and player actions that affect game difficulty</li>
-        </ul>
+        <div>
+          Utilized APIs and web scraping from multiple sources to compile and compare MLB statistics and World Series outcomes. The goals were to analyze trends and to learn if particular statistics are more important than others.
+        </div>
       </p>
       <p>
         <b>Taipan!</b> <br>
