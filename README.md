@@ -46,8 +46,9 @@
         <b>Taipan!</b> <br>
         <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
         <div>
-          C++ terminal/command line implementation of the 1979 computer game <i>Taipan!</i>. Created a fully working economy and player actions that affect game difficulty.<br>
+          C++ terminal/command line implementation of the 1979 computer game <i>Taipan!</i>. Created a fully working economy and player actions that affect game difficulty.
         </div>
+        <br>
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4f6077d7-b1cb-4929-9c1a-9d3dba3478a3" align="left" width="135">
