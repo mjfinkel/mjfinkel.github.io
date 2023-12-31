@@ -38,7 +38,7 @@
         <b>MLB Data Visualizer</b> <br>
         SI 206
         <div>
-          Utilized APIs and web scraping from multiple sources to compile and compare MLB statistics and World Series outcomes. The goals were to analyze trends and to learn if particular statistics are more important than others.
+          Data visualization program for MLB data using Python and SQL. Utilized APIs and web scraping from multiple sources to compile and compare MLB statistics and World Series outcomes. The goals were to analyze trends and to learn if particular statistics are more important than others.
         </div>
       </p>
       <p>
