@@ -52,14 +52,14 @@
         <b>Among Us</b> <br>
         EECS 281
         <div>
-          Spin off of the multiplayer murder mystery game <i>Among Us</i>. Implemented MST and branch and bound algorithms using C++. Developed and optimized an optimal solution bounding algorithm for the traveling salesman problem. Researched and analyzed different TSP heuristics aimed at improving algorithm runtime efficiency.
+          Spin off of the multiplayer murder mystery game <i>Among Us</i> implemented using C++. Developed and optimized an optimal solution bounding algorithm for the traveling salesman problem. Researched and analyzed different TSP heuristics aimed at improving algorithm runtime efficiency.
         </div>
       </p>
       <p>
         <b>Piazza Classifier</b> <br>
         EECS 280
         <div>
-          Post classifier for the website <i>Piazza</i>. Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum. Predicted the subject label of nearly 3000 posts from test data with over 87% accuracy. Made use of container ADTs, dynamic memory, recursion, The Big Three, linked lists, binary trees, and iterators.
+          Post classifier for the website <i>Piazza</i>. Utilized machine learning and natural language processing techniques to automatically classify the subject label of posts from the course online discussion forum. Predicted the subject label of nearly 3000 posts from test data with over 87% accuracy.
         </div>
       </p>
       <p>
