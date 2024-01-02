@@ -18,7 +18,7 @@
       <a href="https://github.com/mjfinkel" target="_blank">
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f4272608-1f53-4e05-8b59-0782e670ac09" align="left" width="25">
         GitHub
-      </a> <br><br><br>
+      </a> <br><br>
       <a href="https://drive.google.com/file/d/1ai-czBnNzOUz2Jgh_HwBhvaFrBJ8O7tw/view?usp=sharing" target="_blank">
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/574ee7f5-c709-4040-bda3-abe751f2a62b" align="left" width="25">
         Resume
@@ -29,7 +29,7 @@
   <body>
     <div>
       <h2>About Me</h2>
-      <p>I am a third year undergraduate student from the Chicagoland area currently studying computer science at the University of Michigan. I am also an experienced videographer with a demonstrated history of working in the newspaper industry and for my school. I am currently looking for a software related internship for the summer 2024 season.</p>
+      <p>I am a third year undergraduate student from the Chicagoland area currently studying computer science at the University of Michigan. I also am an experienced videographer with a demonstrated history of working for media and my school. I currently am looking for a software related internship for the summer 2024 season.</p>
     </div>
     <div>
       <h2>Significant Programming Projects</h2>
@@ -84,7 +84,7 @@
         <a href="https://www.youtube.com/watch?v=92hbzgzqRqo" target="_blank">Video</a> | 
         <a href="https://www.therivalrygame.com/" target="_blank">"The Rivalry Edition" Website</a>
         <div>
-          Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is also launched alongside a competitive fundraiser aimed at help us cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
+          Supplement for "The Rivalry Edition" yearly joint publication between The Michigan Daily and The Ohio State Lantern with stories about our schools' historic football rivalry. The work is launched alongside a competitive fundraiser aimed at helping the paper cover operating costs. The video segment highlights the many reasons to join or donate to The Michigan Daily.
         </div>
         <br>
       </p>
@@ -95,7 +95,7 @@
         <a href="https://www.youtube.com/watch?v=suf3ldFP3Pc" target="_blank">Video</a> | 
         <a href="https://www.michigandaily.com/news/24-hours-with-the-robert-anderson-survivor-protesters-outside-schlissels-house/" target="_blank">Main Article</a>
         <div>
-          Supplement for publication documenting the day-to-day of the protestors camped outside of the University of Michigan President's house, then occupied by former president Mark Schlissel. Led by former Michigan football player Jon Vaughn, victims of the university's athletic doctor Robert Anderson protested for strengthening sexual misconduct policies and protecting students on campus. The video segment illustrates the life of Vaughn and many others while camping over the course of 24 hours.
+          Supplement for publication documenting the day-to-day activities of the protestors camped outside of the University of Michigan President's house, occupied by the president Mark Schlissel. Led by former Michigan football player Jon Vaughn, victims of the university's athletic doctor Robert Anderson protested for strengthening sexual misconduct policies and protecting students on campus. The video segment illustrates the life of Vaughn and many others while camping over the course of 24 hours.
         </div>
       </p>
       <p>
@@ -105,7 +105,7 @@
         <a href="https://vimeo.com/533979399" target="_blank">Video</a> | 
         <a href="https://theoracle.glenbrook225.org/category-4/2021/03/19/rise-variety-show-thrives-despite-pandemic/" target="_blank">Background Article</a>
         <div>
-          The Glenbrook South Variety Show is a collection of acts performed by Glenbrook South High School students. As live film director, my job involved working with act directors and studying student-submitted and faculty-organized acts for live film production. It also involved organizing and directing a film crew of camera operators, audio and video technicians, and assistant directors. After filming, I lead and assisted a team of video editors to put together the final cut of the show. The 2021 show was different from other years, as the COVID-19 regulations restricted in-person shows, creating more dependency on the video screening than ever before.
+          The Glenbrook South Variety Show is a collection of acts performed by Glenbrook South High School students. As live film director, my job involved working with act directors and studying student-submitted and faculty-organized acts for live film production. It also involved organizing and directing a film crew of camera operators, audio and video technicians, and assistant directors. After filming, I led and assisted a team of video editors to prepare the final cut of the show. The 2021 show was different from other years, as the COVID-19 regulations restricted in-person shows, causing more reliace on the video screening than ever before.
         </div>
       </p>
       <p>
@@ -114,7 +114,7 @@
         Lead Director, Producer, and Editor <br>
         <a href="https://www.youtube.com/watch?v=kX8d7QvlzzM" target="_blank">Video</a>
         <div>
-          During the COVID-19 pandemic, Glenbrook South High School needed a way to introduce their incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. We completed all of this efficiently while abiding by COVID-19 regulations.
+          During the COVID-19 pandemic, Glenbrook South High School needed a way to introduce its incoming freshman to the school environment and layout virtually. I was asked by the school administrators to schedule, film, and edit this project. This video combines clips of the interior of the school with explanations from existing students in the background. Other students and I completed all of this efficiently while abiding by COVID-19 regulations.
         </div>
       </p>
       <p>
