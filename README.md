@@ -29,7 +29,7 @@
   <body>
     <div>
       <h2>About Me</h2>
-      <p>I am a third year undergraduate student from the Chicagoland area currently studying computer science at the University of Michigan. I also am an experienced videographer with a demonstrated history of working for media and my school. I currently am looking for a software related internship for the summer 2024 season.</p>
+      <p>I am a third year undergraduate student from the Chicagoland area currently studying computer science at the University of Michigan. I also am an experienced videographer with a demonstrated history of working for media and my school. In my free time I enjoy running, pickleball, Euchre and other card games, and watching older indie films. I currently am looking for a software related internship for the summer 2024 season.</p>
     </div>
     <div>
       <h2>Significant Programming Projects</h2>
