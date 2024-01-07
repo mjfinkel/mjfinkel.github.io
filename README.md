@@ -4,11 +4,11 @@
       <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/216edb1f-ad0b-423c-b3a3-044279d9e5a3" align="left" width="225" />
       <h1> <font color="#00021f"> Matthew Finkel </font> </h1>
       <a href="mailto: mjfinkel@umich.edu" target="_blank">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fa846dd-b958-478b-b23c-0aec4e3de26c" align="left" width="20">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fa846dd-b958-478b-b23c-0aec4e3de26c" align="left" width="23">
         mjfinkel@umich.edu
       </a> <br>
       <a href="tel:8478404033">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/d151a8f2-2aa8-4e6f-b1a6-9ddce417ca2a" align="left" width="20">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/d151a8f2-2aa8-4e6f-b1a6-9ddce417ca2a" align="left" width="23">
         (847) 840-4033
       </a> <br>
       <a href="https://www.linkedin.com/in/matthew-finkel" target="_blank">
