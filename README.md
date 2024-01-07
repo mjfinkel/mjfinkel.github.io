@@ -7,10 +7,6 @@
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/4fa846dd-b958-478b-b23c-0aec4e3de26c" align="left" width="25">
         mjfinkel@umich.edu
       </a> <br> <br>
-      <a href="tel:8478404033">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/d151a8f2-2aa8-4e6f-b1a6-9ddce417ca2a" align="left" width="25">
-        (847) 840-4033
-      </a> <br> <br>
       <a href="https://www.linkedin.com/in/matthew-finkel" target="_blank">
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/6d8f6b34-d422-487c-8493-dc36a6bf8d94" align="left" width="25">
         LinkedIn
