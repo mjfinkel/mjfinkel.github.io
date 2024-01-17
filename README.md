@@ -31,9 +31,9 @@
       <h2>Significant Programming Projects</h2>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/97a43d14-f033-420e-8b74-b9cc2aa5fe47" align="left" width="135">
-        <b>MotorCity Casino Virtual Casino Host</b>
+        <b>Multidisciplinary Design Program - MotorCity Casino Virtual Casino Host</b>
         <div>
-          Project team for the Multidisciplinary Design Program. The goal is to create an AI model to increase customer engagement and refine the model per stakeholder feedback and operational testing. Conduct stakeholder interviews and analyze technical requirements, marketing efforts, and customer data to learn more about current business processes and the user experience. Utilize OpenAI API, Python, and C# to improve the AI model's ability to generate personalized marketing communications.
+          Create an AI model to increase customer engagement and refine the model per stakeholder feedback and operational testing. Conduct stakeholder interviews and analyze technical requirements, marketing efforts, and customer data to learn more about current business processes and the user experience. Utilize OpenAI API, Python, and C# to improve the AI model's ability to generate personalized marketing communications.
         </div>
       </p>
       <p>
