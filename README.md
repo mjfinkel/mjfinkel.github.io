@@ -30,6 +30,14 @@
     <div>
       <h2>Significant Programming Projects</h2>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/97a43d14-f033-420e-8b74-b9cc2aa5fe47" align="left" width="135">
+        <b>MotorCity Casino Virtual Casino Host</b> <br>
+        <a href="https://mdp.engin.umich.edu/sponsor_teams/motor-city-24/" target="_blank">Project Description</a>
+        <div>
+          Project team for the University of Michigan Multidisciplinary Design Program sponsored by MotorCity Casino. The goal is to create an AI model to increase customer engagement and refine the model per stakeholder feedback and operational testing. Conduct stakeholder interviews and analyze technical requirements, marketing efforts, and customer data to learn more about current business processes and the user experience. Utilize OpenAI API, Python, and C# to improve the AI model's ability to generate personalized marketing communications.
+        </div>
+      </p>
+      <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a37ba1fc-38b5-4241-add4-613a554aa823" align="left" width="135">
         <b>MLB Data Visualizer</b> <br>
         SI 206
