@@ -120,7 +120,7 @@
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c5801f00-3752-4bec-8010-7987d74f43a6" align="left" width="400">
         <b>“RAZER” Commercial</b> <br>
-        Producer and Editor <br>
+        Lead Producer and Editor <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
         <div>
           For the final project of my school's TV & Film class, I produced a commercial for RAZER gaming products. This project won first place at the 2020 Midwest Media Educators Association (MMEA) Film Festival, regarded by my high school and many others to be both the state and regional-level of competition for high school students. I led production and editing on this two-man project.
