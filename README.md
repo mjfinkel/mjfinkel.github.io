@@ -27,9 +27,10 @@
       <h2>Significant Programming Projects</h2>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/97a43d14-f033-420e-8b74-b9cc2aa5fe47" align="left" width="135">
-        <b>Multidisciplinary Design Program - MotorCity Casino Virtual Casino Host</b>
+        <b>MotorCity Casino Virtual Casino Host</b> <br>
+        Multidisciplinary Design Program
         <div>
-          Create an AI model to increase customer engagement and refine the model per stakeholder feedback and operational testing. Conduct stakeholder interviews and analyze technical requirements, marketing efforts, and customer data to learn more about current business processes and the user experience. Utilize OpenAI API, Python, and C# to improve the AI model's ability to generate personalized marketing communications.
+          Create an AI model to increase customer engagement and refine the model per stakeholder feedback and operational testing. Conduct stakeholder interviews and analyze technical requirements, marketing efforts, and customer data to learn more about current business processes and the user experience.
         </div>
       </p>
       <p>
@@ -43,7 +44,7 @@
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/893e74d9-b16b-40fb-95ac-a7a6ed1a0fea" align="left" width="135">
         <b>Taipan!</b> <br>
-        <a href="https://github.com/mjfinkel/Taipan" target="_blank">GitHub Repository</a>
+        Personal Project
         <div>
           C++ terminal/command line implementation of the 1979 computer game <i>Taipan!</i>. Created a fully working economy and player actions that affect game difficulty.
         </div>
