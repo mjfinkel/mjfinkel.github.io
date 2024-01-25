@@ -14,10 +14,6 @@
       <a href="https://github.com/mjfinkel" target="_blank">
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/f4272608-1f53-4e05-8b59-0782e670ac09" align="left" width="25">
         GitHub
-      </a> <br> <br>
-      <a href="https://drive.google.com/file/d/1ai-czBnNzOUz2Jgh_HwBhvaFrBJ8O7tw/view?usp=sharing" target="_blank">
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/574ee7f5-c709-4040-bda3-abe751f2a62b" align="left" width="25">
-        Resume
       </a>
       <br clear="left"/>
     </div>
