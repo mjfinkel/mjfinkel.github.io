@@ -119,7 +119,7 @@
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/c5801f00-3752-4bec-8010-7987d74f43a6" align="left" width="400">
-        <b>“RAZER” Commercial</b> <br>
+        <b><i>RAZER<i> Commercial</b> <br>
         Lead Producer and Editor <br>
         <a href="https://drive.google.com/file/d/1L17CEjWD5z6pFUHoPkhrC5jF52UBe7hH/view" target="_blank">Video</a>
         <div>
