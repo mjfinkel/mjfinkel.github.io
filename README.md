@@ -1,6 +1,7 @@
 <html>
   <head>
     <div class="header">
+      <a href="#aboutMe">About Me</a>
       <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/216edb1f-ad0b-423c-b3a3-044279d9e5a3" align="left" width="180" />
       <h1> <font color="#00021f"> Matthew Finkel </font> </h1>
       <a href="mailto: mjfinkel@umich.edu" target="_blank">
@@ -24,7 +25,7 @@
       <p>I am a third year undergraduate student from the Chicagoland area currently studying computer science at the University of Michigan. I am very experienced with C++ and Python, and have done work with data structures, full stack development, artificial intelligence, data analytics, and more. I also am an experienced videographer with a demonstrated history of working for media and my school. In my free time I enjoy running, pickleball, Euchre and other card games. I currently am looking for a software related internship for the summer 2024 season.</p>
     </div>
     <div>
-      <h2>Significant Programming Projects</h2>
+      <h2 id="progProj">Significant Programming Projects</h2>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/97a43d14-f033-420e-8b74-b9cc2aa5fe47" align="left" width="135">
         <b>MotorCity Casino Virtual Casino Host</b> <br>
@@ -84,7 +85,7 @@
       </p>
     </div>
     <div>
-      <h2>Significant Film Projects</h2>
+      <h2 id="filmProj">Significant Film Projects</h2>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/61649027-18ef-4ca9-b90f-db4d2ef2031e" align="left" width="400">
         <b>The Michigan Daily Rivalry Edition 2022 Video</b> <br>
