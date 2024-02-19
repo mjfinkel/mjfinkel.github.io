@@ -37,6 +37,14 @@
         </div>
       </p>
       <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/5ef5eadd-825a-4d36-90f3-8d189498dad2" align="left" width="135">
+        <b>Insta485</b> <br>
+        EECS 485
+        <div>
+          Developed an Instagram-like web application featuring user account and post creation, likes, and comments using Python, HTML, JavaScript, REST API, React, Flask, and SQLite. Implemented the web app with server-side dynamic pages, refactored it using client-side dynamic pages, and deployed it to AWS.
+        </div>
+      </p>
+      <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/a37ba1fc-38b5-4241-add4-613a554aa823" align="left" width="135">
         <b>MLB Data Visualizer</b> <br>
         SI 206
