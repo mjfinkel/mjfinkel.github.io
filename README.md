@@ -43,7 +43,7 @@
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/2e1f874c-83ef-4096-966e-f4c0bb847754" align="left" width="135">
-        <b><i>Fakebook</i> Databases</b> <br>
+        <b>FAKEbook Databases</b> <br>
         EECS 484
         <div>
           Created relational databases in Python and with Java Database Connectivity (JDBC) in SQL*Plus with the goal of creating a practical and minimal structure. Executed queries focusing on query text and result processing, to gain practical experience with SQL and database programming.
