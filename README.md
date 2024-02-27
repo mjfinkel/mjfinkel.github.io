@@ -34,7 +34,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/5ef5eadd-825a-4d36-90f3-8d189498dad2" align="left" width="135" height="135" style="border:1px solid #000">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/5ef5eadd-825a-4d36-90f3-8d189498dad2" align="left" width="135" style="border:1px solid #000">
         <b>Insta485 Websites</b> <br>
         EECS 485
         <div>
@@ -42,7 +42,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/2e1f874c-83ef-4096-966e-f4c0bb847754" align="left" width="135" height="135" style="border:1px solid #000">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/2e1f874c-83ef-4096-966e-f4c0bb847754" align="left" width="135" style="border:1px solid #000">
         <b>FAKEbook Databases</b> <br>
         EECS 484
         <div>
