@@ -34,7 +34,7 @@
         </div>
       </p>
       <p>
-        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/5ef5eadd-825a-4d36-90f3-8d189498dad2" align="left" width="135">
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/5ef5eadd-825a-4d36-90f3-8d189498dad2" align="left" width="135" style="border:2px solid #555">
         <b>Insta485 Websites</b> <br>
         EECS 485
         <div>
