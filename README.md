@@ -35,10 +35,18 @@
       </p>
       <p>
         <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/5ef5eadd-825a-4d36-90f3-8d189498dad2" align="left" width="135">
-        <b>Insta485</b> <br>
+        <b>Insta485 Websites</b> <br>
         EECS 485
         <div>
           Developed an Instagram-like web application featuring user account and post creation, likes, and comments using Python, HTML, JavaScript, REST API, React, Flask, and SQLite. Implemented the web app with server-side dynamic pages, refactored it using client-side dynamic pages, and deployed it to AWS.
+        </div>
+      </p>
+      <p>
+        <img src="https://github.com/mjfinkel/mjfinkel.github.io/assets/135854082/2e1f874c-83ef-4096-966e-f4c0bb847754" align="left" width="135">
+        <b>Fakebook Databases</b> <br>
+        EECS 484
+        <div>
+          Created relational databases in Python and with Java Database Connectivity (JDBC) in SQL*Plus with the goal of creating a practical and minimal structure. Executed queries focusing on query text and result processing, to gain practical experience with SQL and database programming.
         </div>
       </p>
       <p>
