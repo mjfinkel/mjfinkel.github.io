@@ -22,7 +22,7 @@
   <body>
     <div>
       <h2 id="aboutMe">About Me</h2>
-      <p>I am a third year undergraduate student from the Chicagoland area currently studying computer science at the University of Michigan. I am very experienced with C++ and Python, and have done work with data structures, full stack development, artificial intelligence, data analytics, and more. I also am an experienced videographer with a demonstrated history of working for media and my school. In my free time I enjoy running, pickleball, Euchre and other card games. I currently am looking for a software related internship for the summer 2024 season.</p>
+      <p>I am a third year undergraduate student from the Chicagoland area currently studying computer science at the University of Michigan. I am very experienced with C++ and Python, and have done work with data structures, full stack development, artificial intelligence, data analytics, and more. I also am an experienced videographer with a demonstrated history of working for media and my school. In my free time I enjoy running, pickleball, Euchre and other card games.</p>
     </div>
     <div>
       <h2 id="progProj">Significant Programming Projects</h2>
